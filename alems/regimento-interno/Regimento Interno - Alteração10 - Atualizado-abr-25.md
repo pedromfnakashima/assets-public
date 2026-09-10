@@ -114,6 +114,24 @@ Anexo da Resolução nº 65/08, de 17 de dezembro de 2008
     - [Subseção I - Das Disposições Preliminares](#subseção-i---das-disposições-preliminares) — Art. 42
     - [Subseção II - Da Composição e Instalação](#subseção-ii---da-composição-e-instalação) — Arts. 43 a 45
     - [Subseção III - Das Matérias e Atividades de Competência das Comissões](#subseção-iii---das-matérias-e-atividades-de-competência-das-comissões) — Art. 46
+      - Comissão de Constituição, Justiça e Redação — Art. 46, I
+      - Comissão de Finanças e Orçamento — Art. 46, II
+      - Comissão de Agricultura, Pecuária e Políticas Rural, Agrária e Pesqueira — Art. 46, III
+      - Comissão de Educação, Cultura, Desporto — Art. 46, IV
+      - Comissão de Saúde — Art. 46, V
+      - Comissão de Trabalho, Cidadania e Direitos Humanos — Art. 46, VI
+      - Comissão de Serviços Públicos, Obras, Transportes, Infra-estrutura e Administração — Art. 46, VII
+      - Comissão de Acompanhamento da Execução Orçamentária — Art. 46, VIII
+      - Comissão de Controle da Eficácia Legislativa e Legislação Participativa — Art. 46, IX
+      - Comissão de Turismo, Indústria e Comércio — Art. 46, X
+      - Comissão de Meio Ambiente e Desenvolvimento Sustentável — Art. 46, XI
+      - Comissão de Segurança Pública e de Defesa Social — Art. 46, XII
+      - Comissão de Desenvolvimento Agrário e Assuntos Indígenas e Quilombolas — Art. 46, XIII
+      - Comissão de Defesa dos Direitos do Consumidor — Art. 46, XIV
+      - Comissão de Assistência Social e Seguridade Social — Art. 46, XV
+      - Comissão de Defesa dos Direitos da Mulher e Combate à Violência Doméstica e Familiar — Art. 46, XVI
+      - Comissão de Ciência, Tecnologia e Inovação — Art. 46, XVII
+      - Comissão de Defesa dos Direitos da Criança, Adolescente e Juventude — Art. 46, XVIII
   - [Seção III - Das Comissões Temporárias](#seção-iii---das-comissões-temporárias) — Art. 47
     - [Subseção I - Das Comissões de Representação](#subseção-i---das-comissões-de-representação) — Art. 48
     - [Subseção II - Das Comissões Especiais](#subseção-ii---das-comissões-especiais) — Art. 49
@@ -240,7 +258,7 @@ Parágrafo único. Por motivo de conveniência pública e deliberação da maior
 
 Art. 2º A Assembleia Legislativa reunir-se-á na Capital do Estado anual e independente de convocação, de 2 de fevereiro a 17 de julho e de 1º de agosto a 22 de dezembro, quando se encerrará a Sessão Legislativa.
 
-§ 1º Ao início de cada Legislatura, a primeira Sessão Legislativa será instalada no dia 15 de fevereiro. ([REVOGADO pela Resolução nº 26/11, de 06/07/2011 - D.O. 07/07/11, pág.59](https://www.spdo.ms.gov.br/diariodoe/Index/Download/DO7984_07_07_2011))
+~~§ 1º Ao início de cada Legislatura, a primeira Sessão Legislativa será instalada no dia 15 de fevereiro~~. ([REVOGADO pela Resolução nº 26/11, de 06/07/2011 - D.O. 07/07/11, pág.59](https://www.spdo.ms.gov.br/diariodoe/Index/Download/DO7984_07_07_2011))
 
 § 2º As reuniões marcadas para essas datas serão transferidas para o primeiro dia útil subseqüente, quando caírem em sábados, domingos ou feriados.
 
@@ -352,7 +370,7 @@ Art. 18. O ocupante de cargo da Mesa Diretora deixará o exercício do cargo nos
 
 ### CAPITULO III - DA INSTALAÇÃO DA SESSÃO LEGISLATIVA
 
-Art. 19. A instalação da 1ª Sessão Legislativa da Legislatura, que terá cunho solene e festivo, realizar-se-á às nove horas do dia 15 de fevereiro.
+~~Art. 19. A instalação da 1ª Sessão Legislativa da Legislatura, que terá cunho solene e festivo, realizar-se-á às nove horas do dia 15 de fevereiro.~~
 
 Art. 19. A instalação da 1ª Sessão Legislativa da Legislatura, que terá cunho solene e festivo, realizar-se-á às nove horas do dia 02 de fevereiro. ([Alteração feita de acordo com a Resolução nº 26/11, de 06/07/2011 - D.O. 07/07/11, pág. 59](https://www.spdo.ms.gov.br/diariodoe/Index/Download/DO7984_07_07_2011))
 
@@ -360,13 +378,13 @@ Art. 19. A instalação da 1ª Sessão Legislativa da Legislatura, que terá cun
 
 § 2º Quando caírem em sábados, domingos ou feriados as reuniões previstas para as datas fixadas neste artigo serão transferidas para o primeiro dia útil subsequente.
 
-Art. 20. Na data da ante-penúltima Sessão ordinária da segunda Sessão Legislativa de cada Legislatura, sob a direção da Mesa, às 15 horas, em Sessão especialmente convocada, proceder-se-á a eleição da Mesa para a 3ª e a 4ª Sessão Legislativa, obedecido, no que couber, o disposto na Seção II, Capítulo II do Título I.
+~~Art. 20. Na data da ante-penúltima Sessão ordinária da segunda Sessão Legislativa de cada Legislatura, sob a direção da Mesa, às 15 horas, em Sessão especialmente convocada, proceder-se-á a eleição da Mesa para a 3ª e a 4ª Sessão Legislativa, obedecido, no que couber, o disposto na Seção II, Capítulo II do Título I.~~
 
-Art. 20. Até a data da antepenúltima Sessão Ordinária da segunda Sessão Legislativa de cada Legislatura, sob a direção da Mesa, proceder-se-á a eleição da Mesa para a 3ª e a 4ª Sessão Legislativa, obedecido, no que couber, o disposto na Seção II, Capítulo II do Título I. ([Alteração feita de acordo com a Resolução nº 83/16, de 07/12/2016 - D.O. ALEMS 08/12/16, pág. 11)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=d5WNoXYWrKc=)
+~~Art. 20. Até a data da antepenúltima Sessão Ordinária da segunda Sessão Legislativa de cada Legislatura, sob a direção da Mesa, proceder-se-á a eleição da Mesa para a 3ª e a 4ª Sessão Legislativa, obedecido, no que couber, o disposto na Seção II, Capítulo II do Título I.~~ ([Alteração feita de acordo com a Resolução nº 83/16, de 07/12/2016 - D.O. ALEMS 08/12/16, pág. 11)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=d5WNoXYWrKc=)
 
 Art. 20. A eleição da Mesa Diretora para a 3ª e 4ª Sessões Legislativas de cada Legislatura realizar-se-á, sob a direção da Mesa, no decorrer da 2ª Sessão Legislativa, no intervalo compreendido entre a data da primeira sessão ordinária da segunda quinzena do mês de outubro e a data da antepenúltima sessão ordinária daquela sessão legislativa, observados, no que couber as disposições contidas na Seção II, Capítulo II do Título I. [(Alteração feita de acordo com a Resolução nº 01/25, de 08/04/2025 - D.O. ALEMS 09/04/25, pág. 03)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=5GMB1AD1lHNtrocaAdipHkhnoEG3Q==)
 
-Parágrafo único. A Mesa eleita nos termos deste artigo, tomará posse no dia 01 de janeiro do ano seguinte, em solenidade realizada no Gabinete da Presidência.
+~~Parágrafo único. A Mesa eleita nos termos deste artigo, tomará posse no dia 01 de janeiro do ano seguinte, em solenidade realizada no Gabinete da Presidência.~~
 
 Parágrafo único. A Mesa eleita nos termos deste artigo, tomará posse no dia 01 de fevereiro do ano seguinte, em solenidade realizada no Gabinete da Presidência. ([Alteração feita de acordo com a Resolução nº 82/16, de 24/11/2016 - D.O. ALEMS 30/11/16, pág. 5)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=lDP3lT0eLP0=)
 
@@ -756,13 +774,13 @@ Parágrafo único. Quando julgar necessário ao desenvolvimento dos trabalhos da
 
 ##### SUBSEÇÃO I - Das Disposições Preliminares
 
-Art. 42. As comissões permanentes, em número de 14, tem as seguintes denominações:
+~~Art. 42. As comissões permanentes, em número de 14, tem as seguintes denominações:~~
 
-Art. 42. As comissões permanentes, em número de 15, tem as seguintes denominações: ([Alteração feita de acordo com a Resolução nº 28/13, de 14/05/2013 - D.O. ALEMS 16/05/13, pág. 07)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=WpNmTGLOqaY=)
+~~Art. 42. As comissões permanentes, em número de 15, tem as seguintes denominações:~~ ([Alteração feita de acordo com a Resolução nº 28/13, de 14/05/2013 - D.O. ALEMS 16/05/13, pág. 07)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=WpNmTGLOqaY=)
 
-Art. 42. As comissões permanentes, em número de dezesseis, tem as seguintes denominações: ([Alteração feita de acordo com a Resolução nº 30/16, de 04/08/2016 - D.O. ALEMS 05/08/16, pág. 02)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=FLmGtgPPa3o=)
+~~Art. 42. As comissões permanentes, em número de dezesseis, tem as seguintes denominações:~~ ([Alteração feita de acordo com a Resolução nº 30/16, de 04/08/2016 - D.O. ALEMS 05/08/16, pág. 02)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=FLmGtgPPa3o=)
 
-Art. 42. As comissões permanentes, em número de dezessete, tem as seguintes denominações: ([Alteração feita de acordo com a Resolução nº 08/23, de 07/06/2023 - D.O. ALEMS 14/06/23, pág. 03)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=z4a7g0djopstf8UcjuftrocaDivZA==)
+~~Art. 42. As comissões permanentes, em número de dezessete, tem as seguintes denominações:~~ ([Alteração feita de acordo com a Resolução nº 08/23, de 07/06/2023 - D.O. ALEMS 14/06/23, pág. 03)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=z4a7g0djopstf8UcjuftrocaDivZA==)
 
 Art. 42. As comissões permanentes, em número de dezoito, têm as seguintes denominações: ([Alteração feita de acordo com a Resolução nº 03/25, de 23/04/2025 - D.O. ALEMS 24/04/25, pág. 03](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=R8RaS4HOGybPmybAsuQsbA==))
 
@@ -772,11 +790,11 @@ II - Finanças e Orçamento;
 
 III - Agricultura, Pecuária e Políticas Rural, Agrária e Pesqueira;
 
-IV - Educação, Cultura, Desporto, Ciência e Tecnologia;
+~~IV - Educação, Cultura, Desporto, Ciência e Tecnologia;~~
 
 IV - Educação, Cultura, Desporto; ([Alteração feita de acordo com a Resolução nº 08/23, de 07/06/2023 - D.O. ALEMS 14/06/23, pág. 03)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=z4a7g0djopstf8UcjuftrocaDivZA==)
 
-V - Saúde e Seguridade Social;
+~~V - Saúde e Seguridade Social;~~
 
 V - Saúde; ([Alteração feita de acordo com a Resolução nº 28/13, de 14/05/2013 - D.O. ALEMS 16/05/13, pág. 07)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=WpNmTGLOqaY=)
 
@@ -786,7 +804,7 @@ V - Saúde; ([Alteração feita de acordo com a Resolução nº 28/13, de 14/05/
 
 VIII - Acompanhamento da Execução Orçamentária;
 
-IX - Controle de Eficácia Legislativa;
+~~IX - Controle de Eficácia Legislativa;~~
 
 IX - Comissão de Controle Da Eficácia Legislativa e Legislação Participativa; ([Alteração feita de acordo com a Resolução nº 10/12, de 10/05/2012 - D.O. ALEMS 16/05/12, pág. 07](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=kD6urKUj7ho=) e [Republicada no D.O. ALEMS de 27/03/14 - pág.45).](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=SzbfTCrBkIc=)
 
@@ -794,11 +812,11 @@ X - Turismo, Indústria e Comércio;
 
 XI - Meio Ambiente e Desenvolvimento Sustentável;
 
-XII - Legislação Participativa;
+~~XII - Legislação Participativa;~~
 
 XII - Comissão de Segurança Pública e de Defesa Social; ([Alteração feita de acordo com a Resolução nº 10/12, de 10/05/2012 - D.O. ALEMS 16/05/12, pág. 07](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=kD6urKUj7ho=) e [Republicada no D.O. ALEMS de 27/03/14 - pág.45).](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=SzbfTCrBkIc=)
 
-XIII - Desenvolvimento Agrário e Assuntos Indígenas;
+~~XIII - Desenvolvimento Agrário e Assuntos Indígenas;~~
 
 XIII - Desenvolvimento Agrário e Assuntos Indígenas e Quilombolas; ([Alteração feita de acordo com a Resolução nº 83/16 de 07/12/2016 - D.O. ALEMS 08/12/16, pág. 11)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=d5WNoXYWrKc=)
 
@@ -826,7 +844,7 @@ Art. 44. As comissões se organizarão, em geral, dividindo-se o número de memb
 
 § 4º Os suplentes tomarão parte nos trabalhos sempre que o titular se encontre licenciado, impedido ou ausente.
 
-§ 5º O Deputado não poderá participar como membro efetivo, de mais de quatro comissões Permanentes e, como suplente, de mais de cinco.
+~~§ 5º O Deputado não poderá participar como membro efetivo, de mais de quatro comissões Permanentes e, como suplente, de mais de cinco.~~
 
 § 5º O Deputado não poderá participar como membro efetivo, de mais de cinco comissões Permanentes e, como suplente, de mais de seis. ([Alteração feita de acordo com a Resolução nº 08/23, de 07/06/2023 - D.O. ALEMS 14/06/23, pág. 03)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=z4a7g0djopstf8UcjuftrocaDivZA==)
 
@@ -874,35 +892,35 @@ n) redação do vencido em Plenário e redação final das proposições em gera
 
 II - Comissão de Finanças e Orçamento:
 
-a) assuntos tributários, operações financeiras, empréstimos públicos;
+~~a) assuntos tributários, operações financeiras, empréstimos públicos;~~
 
 a) examinar e emitir parecer sobre projetos relativos ao plano plurianual, às diretrizes orçamentárias, ao orçamento anual e aos créditos adicionais, bem como suas emendas; ([Alteração feita de acordo com a Resolução nº 23/16, de 06/06/2016 - D.O. ALEMS 21/06/16, pág. 03)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=5ZsdKsqGruQ=)
 
-b) matérias financeiras e orçamentárias públicas, ressalvada a competência da Comissão Permanente de Acompanhamento da Execução Orçamentária a que se refere o art. 164 da Constituição Estadual;
+~~b) matérias financeiras e orçamentárias públicas, ressalvada a competência da Comissão Permanente de Acompanhamento da Execução Orçamentária a que se refere o art. 164 da Constituição Estadual;~~
 
 b) assuntos tributários, operações financeiras, empréstimos públicos; ([Alteração feita de acordo com a Resolução nº 23/16, de 06/06/2016 - D.O. ALEMS 21/06/16, pág. 03)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=5ZsdKsqGruQ=)
 
-c) normas gerais de licitação e contratação, em todas as modalidades, para a administração pública direta e indireta, incluídas as fundações instituídas e mantidas pelo poder público;
+~~c) normas gerais de licitação e contratação, em todas as modalidades, para a administração pública direta e indireta, incluídas as fundações instituídas e mantidas pelo poder público;~~
 
 c) matérias financeiras e orçamentárias públicas, ressalvada a competência da Comissão Permanente de Acompanhamento da Execução Orçamentária a que se refere o art. 164 da Constituição Estadual; ([Alteração feita de acordo com a Resolução nº 23/16, de 06/06/2016 - D.O. ALEMS 21/06/16, pág. 03)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=5ZsdKsqGruQ=)
 
-d) aspectos financeiros e orçamentários públicos, de qualquer proposição, que importem o aumento ou diminuição da receita ou da despesa pública, observadas as exceções expressas neste Regimento;
+~~d) aspectos financeiros e orçamentários públicos, de qualquer proposição, que importem o aumento ou diminuição da receita ou da despesa pública, observadas as exceções expressas neste Regimento;~~
 
 d) normas gerais de licitação e contratação, em todas as modalidades, para a administração pública direta e indireta, incluídas as fundações instituídas e mantidas pelo poder público; ([Alteração feita de acordo com a Resolução nº 23/16, de 06/06/2016 - D.O. ALEMS 21/06/16, pág. 03)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=5ZsdKsqGruQ=)
 
-e) fixação do subsídio dos membros do Poder Legislativo, do Governador e do Vice-Governador do Estado, e dos Secretários de Estado;
+~~e) fixação do subsídio dos membros do Poder Legislativo, do Governador e do Vice-Governador do Estado, e dos Secretários de Estado;~~
 
 e) aspectos financeiros e orçamentários públicos, de qualquer proposição, que importem o aumento ou diminuição da receita ou da despesa pública, observadas as exceções expressas neste Regimento; ([Alteração feita de acordo com a Resolução nº 23/16, de 06/06/2016 - D.O. ALEMS 21/06/16, pág. 03)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=5ZsdKsqGruQ=)
 
-f) sistema tributário estadual, arrecadação, fiscalização;
+~~f) sistema tributário estadual, arrecadação, fiscalização;~~
 
 f ) fixação do subsidio dos membros do Poder Legislativo, do Governador e do Vice-Governador do Estado, e dos Secretários de Estado[; (Alteração feita de acordo com a Resolução nº 23/16, de 06/06/2016 - D.O. ALEMS 21/06/16, pág. 03)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=5ZsdKsqGruQ=)
 
-g) favores e isenções fiscais;
+~~g) favores e isenções fiscais;~~
 
 g) sistema tributário estadual, arrecadação, fiscalização; ([Alteração feita de acordo com a Resolução nº 23/16, de 06/06/2016 - D.O. ALEMS 21/06/16, pág. 03)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=5ZsdKsqGruQ=)
 
-h) ajustes e convenções de fundo econômico e tarifas.
+~~h) ajustes e convenções de fundo econômico e tarifas.~~
 
 h) favores e isenções fiscais; ([Alteração feita de acordo com a Resolução nº 23/16, de 06/06/2016 - D.O. ALEMS 21/06/16, pág. 03)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=5ZsdKsqGruQ=)
 
@@ -938,81 +956,81 @@ m) incentivo para a implantação de agroindústrias;
 
 n) assuntos atinentes à segurança rural, bem-estar social e desenvolvimento agrário.
 
-IV - Comissão de Educação, Cultura, Desporto, Ciência e Tecnologia:
+~~IV - Comissão de Educação, Cultura, Desporto, Ciência e Tecnologia:~~
 
 IV - Comissão de Educação, Cultura, Desporto: ([Alteração feita de acordo com a Resolução nº 08/23, de 07/06/2023 - D.O. ALEMS 14/06/23, pág. 03)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=z4a7g0djopstf8UcjuftrocaDivZA==)
 
-a) assuntos atinentes à educação em geral;
+~~a) assuntos atinentes à educação em geral;~~
 
 a) assuntos atinentes à educação em geral; ([Alteração feita de acordo com a Resolução nº 08/23, de 07/06/2023 - D.O. ALEMS 14/06/23, pág. 03)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=z4a7g0djopstf8UcjuftrocaDivZA==)
 
-b) sistema esportivo estadual;
+~~b) sistema esportivo estadual;~~
 
 b) sistema esportivo estadual; ([Alteração feita de acordo com a Resolução nº 08/23, de 07/06/2023 - D.O. ALEMS 14/06/23, pág. 03)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=z4a7g0djopstf8UcjuftrocaDivZA==)
 
-c) desenvolvimento cultural, inclusive patrimônio histórico, geográfico, arqueológico, cultural, artístico e científico; convênios e acordos culturais;
+~~c) desenvolvimento cultural, inclusive patrimônio histórico, geográfico, arqueológico, cultural, artístico e científico; convênios e acordos culturais;~~
 
 c) desenvolvimento cultural, inclusive patrimônio histórico, geográfico, arqueológico, cultural, artístico, convênios e acordos culturais; ([Alteração feita de acordo com a Resolução nº 08/23, de 07/06/2023 - D.O. ALEMS 14/06/23, pág. 03)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=z4a7g0djopstf8UcjuftrocaDivZA==)
 
-d) datas comemorativas, homenagens cívicas, diversão e espetáculos públicos, manifestação do pensamento, expressão da atividade artística e comunicação social;
+~~d) datas comemorativas, homenagens cívicas, diversão e espetáculos públicos, manifestação do pensamento, expressão da atividade artística e comunicação social;~~
 
 d) datas comemorativas, homenagens cívicas, diversão e espetáculos públicos, manifestação do pensamento, expressão da atividade artística e comunicação social; ([Alteração feita de acordo com a Resolução nº 08/23, de 07/06/2023 - D.O. ALEMS 14/06/23, pág. 03)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=z4a7g0djopstf8UcjuftrocaDivZA==)
 
-e) desenvolvimento científico e tecnológico informatização do Poder Legislativo e organização institucional do setor; ([Revogado pela Resolução nº 08/23, de 07/06/2023 - D.O. ALEMS 14/06/23, pág. 03)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=z4a7g0djopstf8UcjuftrocaDivZA==)
+~~e) desenvolvimento científico e tecnológico informatização do Poder Legislativo e organização institucional do setor;~~ ([Revogado pela Resolução nº 08/23, de 07/06/2023 - D.O. ALEMS 14/06/23, pág. 03)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=z4a7g0djopstf8UcjuftrocaDivZA==)
 
-f) matéria atinente a política estadual de Ciência e Tecnologia; ([Revogado pela Resolução nº 08/23, de 07/06/2023 - D.O. ALEMS 14/06/23, pág. 03)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=z4a7g0djopstf8UcjuftrocaDivZA==)
+~~f) matéria atinente a política estadual de Ciência e Tecnologia;~~ ([Revogado pela Resolução nº 08/23, de 07/06/2023 - D.O. ALEMS 14/06/23, pág. 03)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=z4a7g0djopstf8UcjuftrocaDivZA==)
 
-g) política estadual de Informática. ([Revogado pela Resolução nº 08/23, de 07/06/2023 - D.O. ALEMS 14/06/23, pág. 03)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=z4a7g0djopstf8UcjuftrocaDivZA==)
+~~g) política estadual de Informática.~~ ([Revogado pela Resolução nº 08/23, de 07/06/2023 - D.O. ALEMS 14/06/23, pág. 03)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=z4a7g0djopstf8UcjuftrocaDivZA==)
 
-V - Comissão de Saúde e Seguridade Social:
+~~V - Comissão de Saúde e Seguridade Social:~~
 
 V - Comissão de Saúde: ([Alteração feita de acordo com a Resolução nº 28/13, de 14/05/2013 - D.O. ALEMS 16/05/13, pág. 07)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=WpNmTGLOqaY=)
 
-a) assuntos relativos a saúde pública, previdência e assistência social em geral;
+~~a) assuntos relativos a saúde pública, previdência e assistência social em geral;~~
 
 a) assuntos relativos a saúde pública em geral; ([Alteração feita de acordo com a Resolução nº 28/13, de 14/05/2013 - D.O. ALEMS 16/05/13, pág. 07)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=WpNmTGLOqaY=)
 
-b) organização institucional da saúde pública, previdência e assistência social do Estado;
+~~b) organização institucional da saúde pública, previdência e assistência social do Estado;~~
 
 b) organização institucional da saúde pública; ([Alteração feita de acordo com a Resolução nº 28/13, de 14/05/2013 - D.O. ALEMS 16/05/13, pág. 07)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=WpNmTGLOqaY=)
 
-c) gestão de pessoal das categorias de trabalhadores envolvidas no Sistema Único de Saúde - SUS e Sistema Único de Assistência Social - SUAS;
+~~c) gestão de pessoal das categorias de trabalhadores envolvidas no Sistema Único de Saúde - SUS e Sistema Único de Assistência Social - SUAS;~~
 
 c) gestão de pessoal das categorias de trabalhadores envolvidas no Sistema Único de Saúde - SUS; ([Alteração feita de acordo com a Resolução nº 28/13, de 14/05/2013 - D.O. ALEMS 16/05/13, pág. 07)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=WpNmTGLOqaY=)
 
-d) assuntos relativos ao financiamento das políticas de saúde, previdência e assistência social;
+~~d) assuntos relativos ao financiamento das políticas de saúde, previdência e assistência social;~~
 
 d) assuntos relativos ao financiamento das políticas de saúde; ([Alteração feita de acordo com a Resolução nº 28/13, de 14/05/2013 - D.O. ALEMS 16/05/13, pág. 07)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=WpNmTGLOqaY=)
 
-e) Sistema Único de Saúde - SUS.
+~~e) Sistema Único de Saúde - SUS.~~
 
 e) Sistema Único de Saúde - SUS. ([Alteração feita de acordo com a Resolução nº 28/13, de 14/05/2013 - D.O. ALEMS 16/05/13, pág. 07)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=WpNmTGLOqaY=)
 
-1\. ações de promoção, proteção e recuperação da saúde, inclusive de seus próprios trabalhadores;
+~~1. ações de promoção, proteção e recuperação da saúde, inclusive de seus próprios trabalhadores;~~
 
 1\. ações de promoção, proteção e recuperação da saúde, inclusive de seus próprios trabalhadores; ([Alteração feita de acordo com a Resolução nº 28/13, de 14/05/2013 - D.O. ALEMS 16/05/13, pág. 07)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=WpNmTGLOqaY=)
 
-2\. ações de vigilância em saúde, especialmente as relacionadas às drogas ilícitas, medicamentos, alimentos, sangue e hemoderivados, bem como controle sanitários de fronteiras, portos e aeroportos;
+~~2. ações de vigilância em saúde, especialmente as relacionadas às drogas ilícitas, medicamentos, alimentos, sangue e hemoderivados, bem como controle sanitários de fronteiras, portos e aeroportos;~~
 
 2\. ações de vigilância em saúde, especialmente as relacionadas às drogas ilícitas, medicamentos, alimentos, sangue e hemoderivados, bem como controle sanitários de fronteiras, portos e aeroportos; ([Alteração feita de acordo com a Resolução nº 28/13, de 14/05/2013 - D.O. ALEMS 16/05/13, pág. 07)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=WpNmTGLOqaY=)
 
-3\. controle social e participação popular;
+~~3. controle social e participação popular;~~
 
 3\. controle social e participação popular; ([Alteração feita de acordo com a Resolução nº 28/13, de 14/05/2013 - D.O. ALEMS 16/05/13, pág. 07)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=WpNmTGLOqaY=)
 
-f) Sistema Único da Assistência Social - SUAS:
+~~f) Sistema Único da Assistência Social - SUAS:~~
 
 f) Assistência à saúde dos servidores públicos estaduais. ([Alteração feita de acordo com a Resolução nº 28/13, de 14/05/2013 - D.O. ALEMS 16/05/13, pág. 07)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=WpNmTGLOqaY=)
 
-1\. assuntos relativos a implementação do SUAS, especial as proteções afiançadas, proteção básica especial; ([Revogado de acordo com a Resolução nº 28/13, de 14/05/2013 - D.O. ALEMS 16/05/13, pág. 07)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=WpNmTGLOqaY=)
+~~1. assuntos relativos a implementação do SUAS, especial as proteções afiançadas, proteção básica especial;~~ ([Revogado de acordo com a Resolução nº 28/13, de 14/05/2013 - D.O. ALEMS 16/05/13, pág. 07)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=WpNmTGLOqaY=)
 
-2\. ações de vigilância social, especialmente a produção, informação, indicadores e índices territorializados das situações de vulnerabilidades e risco pessoal e social que incidem sob as famílias ou pessoas nos diferentes ciclos de vida; ([Revogado de acordo com a Resolução nº 28/13, de 14/05/2013 - D.O. ALEMS 16/05/13, pág. 07)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=WpNmTGLOqaY=)
+~~2. ações de vigilância social, especialmente a produção, informação, indicadores e índices territorializados das situações de vulnerabilidades e risco pessoal e social que incidem sob as famílias ou pessoas nos diferentes ciclos de vida;~~ ([Revogado de acordo com a Resolução nº 28/13, de 14/05/2013 - D.O. ALEMS 16/05/13, pág. 07)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=WpNmTGLOqaY=)
 
-3\. ações de defesas social e institucional, que tratam de garantir o atendimento digno e respeitoso e acesso aos serviços sócio-assistenciais como direito, isentos de procedimentos vexatórios e coercitivo; ([Revogado de acordo com a Resolução nº 28/13, de 14/05/2013 - D.O. ALEMS 16/05/13, pág. 07)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=WpNmTGLOqaY=)
+~~3. ações de defesas social e institucional, que tratam de garantir o atendimento digno e respeitoso e acesso aos serviços sócio-assistenciais como direito, isentos de procedimentos vexatórios e coercitivo;~~ ([Revogado de acordo com a Resolução nº 28/13, de 14/05/2013 - D.O. ALEMS 16/05/13, pág. 07)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=WpNmTGLOqaY=)
 
-4\. assuntos relativos ao processo de descentralização e controle social, dando ênfase à participação dos usuários do sistema; ([Revogado de acordo com a Resolução nº 28/13, de 14/05/2013 - D.O. ALEMS 16/05/13, pág. 07)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=WpNmTGLOqaY=)
+~~4. assuntos relativos ao processo de descentralização e controle social, dando ênfase à participação dos usuários do sistema;~~ ([Revogado de acordo com a Resolução nº 28/13, de 14/05/2013 - D.O. ALEMS 16/05/13, pág. 07)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=WpNmTGLOqaY=)
 
-g) Assistência à saúde dos servidores públicos estaduais. ([Revogado de acordo com a Resolução nº 28/13, de 14/05/2013 - D.O. ALEMS 16/05/13, pág. 07)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=WpNmTGLOqaY=)
+~~g) Assistência à saúde dos servidores públicos estaduais.~~ ([Revogado de acordo com a Resolução nº 28/13, de 14/05/2013 - D.O. ALEMS 16/05/13, pág. 07)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=WpNmTGLOqaY=)
 
 VI - Comissão de Trabalho, Cidadania e Direitos Humanos:
 
@@ -1034,7 +1052,7 @@ h) aspectos relativos à segurança pública, ao sistema penitenciário, à defe
 
 i) aspectos relativos a defesa do consumidor e de assuntos relacionados a problemática capital-trabalho;
 
-j) aspectos e direitos relativos ao índio, a criança e ao adolescente, ao idoso, ao negro e à mulher;
+~~j) aspectos e direitos relativos ao índio, a criança e ao adolescente, ao idoso, ao negro e à mulher;~~
 
 j) aspectos e direitos relativos a pessoas indígenas, ao idoso, ao negro e à mulher; ([Alteração feita de acordo com a Resolução nº 03/25, de 23/04/2025 - D.O. ALEMS 24/04/25, pág. 03](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=R8RaS4HOGybPmybAsuQsbA==))
 
@@ -1058,19 +1076,19 @@ e) sistema estatístico, cartográfico e demográfico estadual;
 
 f) matérias relativas à obras públicas, transportes, sistema viário e infra-estrutura.
 
-VIII - Comissão de Acompanhamento da Execução Orçamentária:
+~~VIII - Comissão de Acompanhamento da Execução Orçamentária:~~
 
 VIII - Comissão de Acompanhamento da Execução Orçamentária: ([Alteração feita de acordo com a Resolução nº 23/16, de 06/06/2016 - D.O. ALEMS 21/06/16, pág. 03)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=5ZsdKsqGruQ=).
 
-a) examinar e emitir parecer sobre projetos relativos ao plano plurianual, às diretrizes orçamentárias, ao orçamento anual e aos créditos adicionais, bem como suas emendas;
+~~a) examinar e emitir parecer sobre projetos relativos ao plano plurianual, às diretrizes orçamentárias, ao orçamento anual e aos créditos adicionais, bem como suas emendas;~~
 
 a) examinar e emitir parecer sobre os planos e programas estaduais, regionais e setoriais, e exercer o acompanhamento e fiscalização orçamentária; ([Alteração feita de acordo com a Resolução nº 23/16, de 06/06/2016 - D.O. ALEMS 21/06/16, pág. 03).](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=5ZsdKsqGruQ=)
 
-b) examinar e emitir parecer sobre os planos e programas estaduais, regionais e setoriais, e exercer o acompanhamento e fiscalização orçamentária;
+~~b) examinar e emitir parecer sobre os planos e programas estaduais, regionais e setoriais, e exercer o acompanhamento e fiscalização orçamentária;~~
 
 b) tomada de contas do Governador; ([Alteração feita de acordo com a Resolução nº 23/16, de 06/06/2016 - D.O. ALEMS 21/06/16, pág. 03).](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=5ZsdKsqGruQ=)
 
-c) tomada de contas do Governador.
+~~c) tomada de contas do Governador.~~
 
 c) examinar e emitir parecer sobre os documentos pertinentes ao acompanhamento e fiscalização da execução orçamentária e financeira e da gestão fiscal, nos termos dos arts. 160 a 163, da Constituição Estadual e da Lei Complementar n° 101/2000, especialmente: ([Alteração feita de acordo com a Resolução nº 23/16, de 06/06/2016 - D.O. ALEMS 21/06/16, pág. 03).](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=5ZsdKsqGruQ=)
 
@@ -1086,7 +1104,7 @@ d) exercer o acompanhamento e a fiscalização contábil, financeira, orçament�
 
 e) demais atribuições constitucionais e legais. ([Incluído pela Resolução nº 23/16, de 06/06/2016 - D.O. ALEMS 21/06/16, pág. 03).](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=5ZsdKsqGruQ=)
 
-IX- Comissão de Controle Da Eficácia Legislativa:
+~~IX- Comissão de Controle Da Eficácia Legislativa:~~
 
 IX- Comissão de Controle da Eficácia Legislativa e Legislação Participativa: ([Alteração feita de acordo com a Resolução nº 10/12, de 10/05/2012 - D.O. ALEMS 16/05/12, pág. 07](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=kD6urKUj7ho=) e [Republicada no D.O. ALEMS de 27/03/14 - pág.45](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=SzbfTCrBkIc=)).
 
@@ -1130,15 +1148,15 @@ b) assuntos relativos ao meio ambiente, recursos naturais renováveis, flora, fa
 
 c) criação, ampliação ou manutenção de reservas biológicas ou recursos naturais.
 
-XII - Comissão de Legislação Participativa:
+~~XII - Comissão de Legislação Participativa:~~
 
 XII- Comissão de Segurança Pública e de Defesa Social: ([Alteração feita de acordo com a Resolução nº 10/12, de 10/05/2012 - D.O. ALEMS 16/05/12, pág. 07](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=kD6urKUj7ho=) e [Republicada no D.O. ALEMS de 27/03/14 - pág.45](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=SzbfTCrBkIc=)).
 
-a) receber sugestões de iniciativa legislativa apresentada por associações e órgãos de classe, sindicatos e entidades organizadas da sociedade civil, exceto partidos políticos;
+~~a) receber sugestões de iniciativa legislativa apresentada por associações e órgãos de classe, sindicatos e entidades organizadas da sociedade civil, exceto partidos políticos;~~
 
 a) examinar e emitir parecer sobre os planos e programas estaduais, regionais, setoriais e exercer o acompanhamento e fiscalização sobre projetos relativos a segurança pública e de defesa social; ([Alteração feita de acordo com a Resolução nº 10/12, de 10/05/2012 - D.O. ALEMS 16/05/12, pág. 07](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=kD6urKUj7ho=) e [Republicada no D.O. ALEMS de 27/03/14 - pág.45](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=SzbfTCrBkIc=)).
 
-b) receber pareceres técnicos, exposições e propostas oriundas de entidades científicas e culturais de qualquer das entidades mencionadas na alínea “a”.
+~~b) receber pareceres técnicos, exposições e propostas oriundas de entidades científicas e culturais de qualquer das entidades mencionadas na alínea “a”.~~
 
 b) requisitar informações necessárias a consecução de seus objetivos; ([Alteração feita de acordo com a Resolução nº 10/12, de 10/05/2012 - D.O. ALEMS 16/05/12, pág. 07](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=kD6urKUj7ho=) e [Republicada no D.O. ALEMS de 27/03/14 - pág.45](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=SzbfTCrBkIc=)).
 
@@ -1158,19 +1176,19 @@ i) política estadual de combate ao crime organizado, tráfico de armas e no que
 
 j) política estadual de combate ao crime ambiental. ([Alteração feita de acordo com a Resolução nº 10/12, de 10/05/2012 - D.O. AL/MS 16/05/12, pág. 07](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=kD6urKUj7ho=) e [Republicada no D.O. ALEMS de 27/03/14 - pág.45](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=SzbfTCrBkIc=)).
 
-XIII - Comissão de Desenvolvimento Agrário e Assuntos Indígenas:
+~~XIII - Comissão de Desenvolvimento Agrário e Assuntos Indígenas:~~
 
 XIII - Comissão de Desenvolvimento Agrário e Assuntos Indígenas e Quilombolas: ([Alteração feita de acordo com a Resolução nº 81/16, de 20/10/2016 - D.O. ALEMS 21/10/16, pág. 02)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=bgHlS7aKJw4=).
 
-a) analisar matérias que enfocam políticas de crédito estadual, federal e externo, e incentivos fiscais para o desenvolvimento agrário e assuntos relacionados aos povos indígenas;
+~~a) analisar matérias que enfocam políticas de crédito estadual, federal e externo, e incentivos fiscais para o desenvolvimento agrário e assuntos relacionados aos povos indígenas;~~
 
 a) analisar matérias que enfocam políticas de crédito estadual, federal e externo, e incentivos fiscais para o desenvolvimento agrário e assuntos relacionados aos povos indígenas e Quilombolas; ([Alteração feita de acordo com a Resolução nº 81/16, de 20/10/2016 - D.O. ALEMS 21/10/16, pág. 02)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=bgHlS7aKJw4=).
 
-b) matérias relativas a programas estaduais de fomento e pesquisa que visem essas áreas, bem como políticas de estímulo ao desenvolvimento agrário;
+~~b) matérias relativas a programas estaduais de fomento e pesquisa que visem essas áreas, bem como políticas de estímulo ao desenvolvimento agrário;~~
 
 b) matérias relativas a programas estaduais de fomento e pesquisa que visem essas áreas, bem como políticas de estímulo ao desenvolvimento agrário; ([Alteração feita de acordo com a Resolução nº 81/16, de 20/10/2016 - D.O. ALEMS 21/10/16, pág. 02)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=bgHlS7aKJw4=).
 
-c) avaliar assuntos relativos ao atendimento e bem-estar da população indígena e desenvolvimento agrário, programas sociais e institucionais relacionados às questões indígenas, e políticas de distribuição e remanejamento dessa população.
+~~c) avaliar assuntos relativos ao atendimento e bem-estar da população indígena e desenvolvimento agrário, programas sociais e institucionais relacionados às questões indígenas, e políticas de distribuição e remanejamento dessa população.~~
 
 c) avaliar assuntos relativos ao atendimento e bem-estar da população indígena e desenvolvimento agrário, programas sociais e institucionais relacionados às questões indígenas, quilombolas e políticas de distribuição e remanejamento dessas populações. ([Alteração feita de acordo com a Resolução nº 81/16, de 20/10/2016 - D.O. ALEMS 21/10/16, pág. 02)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=bgHlS7aKJw4=).
 
@@ -1292,7 +1310,7 @@ Art. 50. A Assembleia Legislativa, a requerimento de um terço de seus membros, 
 
 I - o prazo poderá ser prorrogado por até a metade do fixado no requerimento que solicitou a criação da Comissão Parlamentar de Inquérito, mediante deliberação do Plenário;
 
-II - a comissão poderá atuar durante o recesso parlamentar.
+~~II - a comissão poderá atuar durante o recesso parlamentar.~~
 
 II - O prazo das Comissões Parlamentares de Inquérito será contado a partir da data de instalação, eleição e posse do Presidente, Vice-Presidente e escolha da Relatoria, suspendendo-se nos períodos do recesso parlamentar, mediante requerimento à Mesa Diretora; ([Alteração feita de acordo com a Resolução nº 83/16, de 07/12/2016 - D.O. ALEMS 08/12/16, pág. 11)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=d5WNoXYWrKc=).
 
@@ -1752,7 +1770,7 @@ Art. 77. Assegura-se ao Deputado, no exercício do mandato, inviolabilidade civi
 
 ### CAPITULO II - DA POSSE
 
-Art. 78. A posse do Deputado que não tenha se investido no cargo, na sessão especial de que trata o art. 5º, será ato público que se realizará perante a Assembleia, durante a Sessão Legislativa ordinária, ou Sessão extraordinária, inclusive em reunião preparatória, devendo precedê-la a entrega do diploma respectivo à Mesa. Estando a Assembleia em recesso, a Mesa Diretora tomará o compromisso e deferirá a posse no Gabinete da Presidência.
+~~Art. 78. A posse do Deputado que não tenha se investido no cargo, na sessão especial de que trata o art. 5º, será ato público que se realizará perante a Assembleia, durante a Sessão Legislativa ordinária, ou Sessão extraordinária, inclusive em reunião preparatória, devendo precedê-la a entrega do diploma respectivo à Mesa. Estando a Assembleia em recesso, a Mesa Diretora tomará o compromisso e deferirá a posse no Gabinete da Presidência.~~
 
 Art. 78. A posse do Deputado que não tenha se investido no cargo, na Sessão especial de que trata o art. 5º, será ato público que se realizará perante a Assembleia, durante a Sessão Legislativa ordinária, ou Sessão extraordinária, inclusive em reunião preparatória, devendo precedê-la a entrega do diploma respectivo à Mesa. ([Alteração feita de acordo com a Resolução nº 26/11, de 06/07/2011 - D.O. 07/07/11, pág. 59)](https://www.spdo.ms.gov.br/diariodoe/Index/Download/DO7984_07_07_2011).
 
@@ -1942,7 +1960,7 @@ II - à época das convenções partidárias destinadas a escolha de candidatos,
 
 III - a serviço do mandato que exerce, faltar a três sessões ordinárias, no máximo, por mês.
 
-§ 1º Fará jus ao subsídio o Deputado licenciado nos termos dos incisos I, II, III e VI do art. 79.
+~~§ 1º Fará jus ao subsídio o Deputado licenciado nos termos dos incisos I, II, III e VI do art. 79.~~
 
 § 1º Fará jus ao subsídio o Deputado licenciado nos termos dos incisos I, II, III e VI do art. 81. ([Alteração feita de acordo com a Resolução nº 83/16, de 07/12/2016 - D.O. ALEMS 08/12/16, pág. 11)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=d5WNoXYWrKc=).
 
@@ -2016,7 +2034,7 @@ Parágrafo único. Uma vez instituída e comunicada à Mesa Diretora a Frente Pa
 
 Art. 102. Ao assumir o exercício do mandato, o Deputado, ou Suplente convocado escolherá o nome parlamentar com que deverá figurar nas publicações e registros da Casa, seguido da sigla partidária a que pertence, entre parênteses, e quando não pertencer a nenhum partido utilizar-se-á a expressão “sem partido”, entre parênteses.
 
-§ 1º O nome parlamentar não conterá mais de duas palavras, extraídas do registro da candidatura na Justiça Eleitoral, não computadas, nesse número, as proposições ou conjunções, bem assim os termos Filho, Júnior, Neto, Sobrinho, ou semelhantes.
+~~§ 1º O nome parlamentar não conterá mais de duas palavras, extraídas do registro da candidatura na Justiça Eleitoral, não computadas, nesse número, as proposições ou conjunções, bem assim os termos Filho, Júnior, Neto, Sobrinho, ou semelhantes.~~
 
 § 1º O nome parlamentar não conterá mais de três palavras, extraídas do registro de candidatura na Justiça Eleitoral, não computadas, nesse número, as proposições ou conjunções, bem assim os termos Filho, Júnior, Neto, Sobrinho ou semelhantes. ([Alteração feita de acordo com as Resoluções nº 07/23, de 06/06/23 - D.O. ALEMS 07/06/23, pág. 3)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=etMMZXzPyQ7Jejl7McyhBA==).
 
@@ -2044,11 +2062,11 @@ V - solenes: as efetuadas para atos relevantes da vida política do Estado ou pa
 
 VI - permanentes, as destinadas a vigilância por ocorrência de fato ou situação de gravidade.
 
-Parágrafo único. As sessões preparatórias se disciplinam pelas normas especiais constantes deste Regimento.
+~~Parágrafo único. As sessões preparatórias se disciplinam pelas normas especiais constantes deste Regimento.~~
 
 § 1º As sessões preparatórias se disciplinam pelas normas especiais constantes deste Regimento. ([Acrescentado pela Resolução nº 37/09, de 10/09/2009 - D.O. 11/09/09, pág. 33)](https://www.spdo.ms.gov.br/diariodoe/Index/Download/DO7540_11_09_2009).
 
-§ 2º É vedada a realização de sessões especiais e solenes nos dias e horário fixados neste Regimento Interno para as sessões ordinárias, ressalvadas as sessões solenes de instalação das Sessões Legislativas, de que tratam os artigos 19 e 22. ([Acrescentado pela Resolução nº 37/09, de 10/09/2009 - D.O. 11/09/09, pág. 33)](https://www.spdo.ms.gov.br/diariodoe/Index/Download/DO7540_11_09_2009).
+~~§ 2º É vedada a realização de sessões especiais e solenes nos dias e horário fixados neste Regimento Interno para as sessões ordinárias, ressalvadas as sessões solenes de instalação das Sessões Legislativas, de que tratam os artigos 19 e 22.~~ ([Acrescentado pela Resolução nº 37/09, de 10/09/2009 - D.O. 11/09/09, pág. 33)](https://www.spdo.ms.gov.br/diariodoe/Index/Download/DO7540_11_09_2009).
 
 § 2º É vedada a realização de sessões especiais e solenes nos dias e horários fixados neste Regimento Interno para as sessões ordinárias, ressalvadas as sessões solenes: ([Alteração feita de acordo com a Resolução 08/11, de 04/05/2011 - D.O. 05/05/11, pág. 44)](https://www.spdo.ms.gov.br/diariodoe/Index/Download/DO7942_05_05_2011).
 
@@ -2110,11 +2128,11 @@ Parágrafo único. Nas sessões extraordinárias não será admitido trato de ma
 
 Art. 111. As sessões da Assembleia serão normalmente públicas admitindo, todavia, por interesse da segurança ou preservação do decoro parlamentar, e por decisão da maioria absoluta, a sua realização em caráter secreto.
 
-Art. 112. As sessões solenes obedecerão a ordem e o programa estabelecidos pela Mesa.
+~~Art. 112. As sessões solenes obedecerão a ordem e o programa estabelecidos pela Mesa.~~
 
 Art. 112. As sessões solenes obedecerão a ordem e o programa estabelecidos pela Mesa Diretora, a quem cabe determinar ou autorizar, quando este Regimento não dispor expressamente, sobre o local, a data e o horário em que serão realizadas. ([Alteração feita de acordo com a Resolução nº 15/16, de 07/06/2016 - D.O. ALEMS 08/06/16, SUPLEMENTO, pág. 02).](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=XPAEloLWBF0=)
 
-Parágrafo único. Serão sempre solenes as sessões de instalação dos trabalhos legislativos e as designadas para posse do Governador do Estado. ([Revogado pela Resolução nº 15/16, de 07/06/2016 - D.O. ALEMS 08/06/16, SUPLEMENTO, pág. 02).](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=XPAEloLWBF0=)
+~~Parágrafo único. Serão sempre solenes as sessões de instalação dos trabalhos legislativos e as designadas para posse do Governador do Estado.~~ ([Revogado pela Resolução nº 15/16, de 07/06/2016 - D.O. ALEMS 08/06/16, SUPLEMENTO, pág. 02).](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=XPAEloLWBF0=)
 
 § 1º Serão consideradas como sessões solenes: ([Acrescentado pela Resolução nº 15/16, de 07/06/2016 - D.O. ALEMS 08/06/16, SUPLEMENTO, pág. 02).](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=XPAEloLWBF0=)
 
@@ -2124,11 +2142,11 @@ II - as sessões destinadas à entrega de Títulos de Cidadão Sul-mato-grossens
 
 III - as sessões destinadas à entrega de outras comendas e/ou honrarias instituídas por Resolução de iniciativa dos Deputados. ([Acrescentado pela Resolução nº 15/16, de 07/06/2016 - D.O. ALEMS 08/06/16, SUPLEMENTO, pág. 02).](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=XPAEloLWBF0=)
 
-§ 2º Ficam limitadas a duas sessões solenes anuais, as destinadas à entrega das honrarias especificadas no inciso II do § 1º deste artigo, sendo que em cada uma das sessões, cada Deputado poderá indicar uma personalidade para ser agraciada com o Título de Cidadão Sul-matogrossense e uma personalidade para ser agraciada com a Comenda do Mérito Legislativo. ([Acrescentado pela Resolução nº 15/16, de 07/06/2016 - D.O. ALEMS 08/06/16, SUPLEMENTO, pág. 02).](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=XPAEloLWBF0=)
+~~§ 2º Ficam limitadas a duas sessões solenes anuais, as destinadas à entrega das honrarias especificadas no inciso II do § 1º deste artigo, sendo que em cada uma das sessões, cada Deputado poderá indicar uma personalidade para ser agraciada com o Título de Cidadão Sul-matogrossense e uma personalidade para ser agraciada com a Comenda do Mérito Legislativo.~~ ([Acrescentado pela Resolução nº 15/16, de 07/06/2016 - D.O. ALEMS 08/06/16, SUPLEMENTO, pág. 02).](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=XPAEloLWBF0=)
 
 § 2º Ficam limitadas a duas sessões solenes anuais as destinadas à entrega das honrarias especificadas no inciso II do § 1º deste artigo sendo que, em cada uma das sessões, cada Deputado poderá indicar duas personalidades para serem agraciadas com o Título de Cidadão Sul-Mato-Grossense e duas personalidades, com a Comenda do Mérito Legislativo. Caso a Mesa Diretora venha a organizar apenas uma sessão solene no ano, com as finalidades citadas, as indicações poderão ser acumuladas. ([Alteração feita de acordo com a Resolução nº 08/24, de 22/05/2024 - D.O. ALEMS 23/05/24, pág. 03).](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=gxmD91M3E0VI0X0jytrocaAdiUKQA==)
 
-§ 3° Cada Deputado poderá propor apenas duas sessões solenes, em cada Sessão Legislativa, para outorgadas comendas e/ou honrarias especificadas no inciso III do § 1° deste artigo. ([Acrescentado pela Resolução nº 15/16, de 07/06/2016 - D.O. ALEMS 08/06/16, SUPLEMENTO pág. 02).](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=XPAEloLWBF0=)
+~~§ 3° Cada Deputado poderá propor apenas duas sessões solenes, em cada Sessão Legislativa, para outorgadas comendas e/ou honrarias especificadas no inciso III do § 1° deste artigo.~~ ([Acrescentado pela Resolução nº 15/16, de 07/06/2016 - D.O. ALEMS 08/06/16, SUPLEMENTO pág. 02).](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=XPAEloLWBF0=)
 
 § 3° Cada Deputado poderá propor até três sessões solenes, em cada Sessão Legislativa, para outorga de comendas e/ou honrarias especificadas no inciso III do § 1° deste artigo. ([Alteração feita de acordo com a Resolução nº 08/24, de 22/05/2024 - D.O. ALEMS 23/05/24, pág. 03).](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=gxmD91M3E0VI0X0jytrocaAdiUKQA==)
 
@@ -2170,7 +2188,7 @@ III - quando presente menos de um quarto dos membros da Assembleia.
 
 Art. 116. Fora dos casos expressos nos arts. 114 e 115, só mediante deliberação do Plenário, poderá a Sessão ser suspensa ou levantada.
 
-Art. 117. A Assembleia poderá destinar as duas primeiras partes da Sessão a comemorações, ou interromper os seus trabalhos em qualquer fase da Sessão, para recepção a altas personalidades ou representantes de segmento da sociedade, desde que assim resolva o Plenário por proposta de um Deputado.
+~~Art. 117. A Assembleia poderá destinar as duas primeiras partes da Sessão a comemorações, ou interromper os seus trabalhos em qualquer fase da Sessão, para recepção a altas personalidades ou representantes de segmento da sociedade, desde que assim resolva o Plenário por proposta de um Deputado.~~
 
 Art. 117. A Assembleia Legislativa poderá destinar as duas primeiras partes da Sessão a comemorações, ou interromper os seus trabalhos em qualquer fase da Sessão, exceto durante a Ordem do Dia, para recepção a altas personalidades, desde que assim resolva o Plenário, por proposta de um Deputado. ([Alteração feita de acordo com a Resolução nº 26/16, de 23/06/2016 - D.O. ALEMS 24/06/16, pág. 03)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=0ARqdhbLjJk=).
 
@@ -2288,21 +2306,21 @@ Art. 133. O orador poderá, se quiser, assegurar preferência no debate de maté
 
 #### SEÇÃO I - DO PEQUENO EXPEDIENTE
 
-Art. 134 À hora do início das sessões, os membros da Mesa Diretora e os deputados ocuparão seus lugares, para o início do Pequeno Expediente, que terá a duração máxima de sessenta minutos. ([Alteração feita de acordo com a Resolução nº 86/10, de 08/12/10 - D.O. 09/12/10, pág. 63)](https://www.spdo.ms.gov.br/diariodoe/Index/Download/DO7843_09_12_2010).
+~~Art. 134 À hora do início das sessões, os membros da Mesa Diretora e os deputados ocuparão seus lugares, para o início do Pequeno Expediente, que terá a duração máxima de sessenta minutos.~~ ([Alteração feita de acordo com a Resolução nº 86/10, de 08/12/10 - D.O. 09/12/10, pág. 63)](https://www.spdo.ms.gov.br/diariodoe/Index/Download/DO7843_09_12_2010).
 
 Art. 134. À hora do início das sessões, os membros da Mesa Diretora e os deputados ocuparão seus lugares ou estarão disponíveis remotamente, para o início do Pequeno Expediente, que terá a duração máxima de sessenta minutos. ([Alteração feita de acordo com a Resolução nº 02/23, de 04/05/23 - D.O. ALEMS 05/05/23, pág. 3)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=VlAIxI2b4rBVS7saWaIVtQ==).
 
-§ 1º A presença dos deputados, para efeito de conhecimento de número para abertura dos trabalhos e para votação, será verificada pela folha de presença, organizada por Bancada e na ordem alfabética de seus nomes e assinada pelo Parlamentar.
+~~§ 1º A presença dos deputados, para efeito de conhecimento de número para abertura dos trabalhos e para votação, será verificada pela folha de presença, organizada por Bancada e na ordem alfabética de seus nomes e assinada pelo Parlamentar.~~
 
-§ 1º A presença dos deputados, para efeito de conhecimento de número para abertura dos trabalhos, será verificada pela folha de presença, organizada por Bancada e na ordem alfabética de seus nomes e assinada pelo Parlamentar. ([Alteração feita de acordo com a Resolução nº 86/10, de 08/12/10 - D.O. 09/12/10, pág. 63)](https://www.spdo.ms.gov.br/diariodoe/Index/Download/DO7843_09_12_2010)
+~~§ 1º A presença dos deputados, para efeito de conhecimento de número para abertura dos trabalhos, será verificada pela folha de presença, organizada por Bancada e na ordem alfabética de seus nomes e assinada pelo Parlamentar.~~ ([Alteração feita de acordo com a Resolução nº 86/10, de 08/12/10 - D.O. 09/12/10, pág. 63)](https://www.spdo.ms.gov.br/diariodoe/Index/Download/DO7843_09_12_2010)
 
 § 1º Será verificada a presença dos deputados para a abertura dos trabalhos com o número mínimo legal. ([Alteração feita de acordo com a Resolução nº 02/23, de 04/05/23 - D.O. ALEMS 05/05/23, pág. 3)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=VlAIxI2b4rBVS7saWaIVtQ==).
 
-§ 2º Verificada a presença de, pelo menos, um quarto dos membros da Assembleia, o Presidente declarará aberta a Sessão e em caso contrário, aguardará durante quinze minutos, deduzindo esse retardamento do tempo destinado ao Pequeno Expediente.
+~~§ 2º Verificada a presença de, pelo menos, um quarto dos membros da Assembleia, o Presidente declarará aberta a Sessão e em caso contrário, aguardará durante quinze minutos, deduzindo esse retardamento do tempo destinado ao Pequeno Expediente.~~
 
 § 2º Verificada a presença de, pelo menos, um quarto dos membros da Assembleia, o Presidente declarará aberta a Sessão. ([Alteração feita de acordo com a Resolução nº 86/10, de 08/12/10 - D.O. 09/12/10, pág. 63)](https://www.spdo.ms.gov.br/diariodoe/Index/Download/DO7843_09_12_2010).
 
-§ 3º Persistindo a falta de quórum, o Presidente declarará que não pode haver sessão, declinando os nomes dos deputados que assinaram a lista de presença e determinando o registro da ocorrência em ata que será lavrada na forma do disposto no parágrafo único do artigo 152.
+~~§ 3º Persistindo a falta de quórum, o Presidente declarará que não pode haver sessão, declinando os nomes dos deputados que assinaram a lista de presença e determinando o registro da ocorrência em ata que será lavrada na forma do disposto no parágrafo único do artigo 152.~~
 
 § 3º Transcorridos quinze minutos da hora regimental determinada para o início da Sessão e não estando presente o Presidente, será o mesmo substituído, sucessivamente, pelos Vice Presidentes ou Secretários. ([Alteração feita de acordo com a Resolução nº 86/10, de 08/12/10 - D.O. 09/12/10, pág. 63)](https://www.spdo.ms.gov.br/diariodoe/Index/Download/DO7843_09_12_2010).
 
@@ -2336,7 +2354,7 @@ Art. 137. O 1º Secretário, em seguida à leitura da ata, dará conta das propo
 
 § 1º Será de dez minutos, no máximo, o tempo consagrado à leitura da ata e de documentos a que se referem os arts. 136 e 137; esgotado esse prazo, se ainda houver papéis na Mesa, serão os mesmos despachados oportunamente.
 
-§ 2º Terminada a primeira parte do Pequeno Expediente, passar-se-á à segunda, durante a qual o Presidente dará a palavra aos deputados previamente inscritos, para apresentar proposições, fazer comunicação ou emitir consideração sobre fato ou idéia que houverem por bem, não podendo cada orador exceder o prazo de cinco minutos, proibidos os apartes.
+~~§ 2º Terminada a primeira parte do Pequeno Expediente, passar-se-á à segunda, durante a qual o Presidente dará a palavra aos deputados previamente inscritos, para apresentar proposições, fazer comunicação ou emitir consideração sobre fato ou idéia que houverem por bem, não podendo cada orador exceder o prazo de cinco minutos, proibidos os apartes.~~
 
 § 2º Terminada a primeira parte do Pequeno Expediente, passar-se-á a segunda, durante a qual o Presidente dará a palavra aos deputados previamente inscritos, para apresentar proposições, fazer comunicação ou emitir consideração sobre o fato ou idéia que houverem por bem, não podendo cada orador exceder o prazo de três minutos proibidos os apartes. ([Alteração feita de acordo com a Resolução nº 90/17, de 26/10/17 - D.O. ALEMS 27/10/17, pág. 4)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=D8UPtrocaAdiAUSr9A=).
 
@@ -2364,7 +2382,7 @@ Art.138. Esgotada a matéria do Pequeno Expediente, ou o tempo que lhe é reserv
 
 § 5º A inscrição prévia no livro do Grande Expediente, feita de próprio punho, assegura a vez do orador, na ordem em que haja feito, sem embargo da garantia, aos líderes, ao uso da prerrogativa do art. 96.
 
-Art. 139. No período de tempo destinado ao Grande Expediente, a tribuna poderá ser utilizada por representantes de diferentes entidades, sindicatos, organizações representativas de classe do Estado de Mato Grosso do Sul ou movimentos sociais populares, pelo período de quinze minutos, prorrogáveis a critério do Plenário e mediante solicitação verbal do orador.
+~~Art. 139. No período de tempo destinado ao Grande Expediente, a tribuna poderá ser utilizada por representantes de diferentes entidades, sindicatos, organizações representativas de classe do Estado de Mato Grosso do Sul ou movimentos sociais populares, pelo período de quinze minutos, prorrogáveis a critério do Plenário e mediante solicitação verbal do orador.~~
 
 Art. 139. No período após a Ordem do Dia, a Tribuna poderá ser ocupada, mediante requerimento, nos termos do art. 140, deste Regimento, por representantes de entidades, sindicatos, organizações representativas de classes, movimentos sociais e populares do Estado de Mato Grosso do Sul, pelo período improrrogável de até 15 (quinze) minutos. ([Alteração feita de acordo com a Resolução nº 26/16, de 23/06/2016 - D.O. ALEMS 24/06/16, pág. 03)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=0ARqdhbLjJk=).
 
@@ -2390,9 +2408,9 @@ II - ata da reunião que deliberou sobre a solicitação e o assunto a ser abord
 
 § 6° Em nenhuma hipótese poderá ser apresentado, lido e aprovado o requerimento previsto no caput deste dispositivo para o uso da Tribuna na mesma Sessão. ([Acrescentado de acordo com a Resolução nº 90/17, de 26/10/2017 - D.O. ALEMS 27/10/17, pág. 04)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=D8UPtrocaAdiAUSr9A=).
 
-Art. 141. O requerimento de que trata o art. 140, poderá, excepcionalmente, ser formulado oralmente por Deputado, à Mesa Diretora, que consultará as lideranças quanto ao uso da tribuna, na mesma Sessão, por representantes de entidades ou organizações de classe. ([Revogado pela Resolução nº 26/16, de 23/06/2016 - D.O. ALEMS 24/06/16, pág. 3)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=0ARqdhbLjJk=).
+~~Art. 141. O requerimento de que trata o art. 140, poderá, excepcionalmente, ser formulado oralmente por Deputado, à Mesa Diretora, que consultará as lideranças quanto ao uso da tribuna, na mesma Sessão, por representantes de entidades ou organizações de classe.~~ ([Revogado pela Resolução nº 26/16, de 23/06/2016 - D.O. ALEMS 24/06/16, pág. 3)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=0ARqdhbLjJk=).
 
-Parágrafo único. O caráter excepcional da solicitação deverá ser justificado pelo Deputado autor do pedido. ([Revogado pela Resolução nº 26/16, de 23/06/2016 - D.O. ALEMS 24/06/16, pág. 3)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=0ARqdhbLjJk=).
+~~Parágrafo único. O caráter excepcional da solicitação deverá ser justificado pelo Deputado autor do pedido.~~ ([Revogado pela Resolução nº 26/16, de 23/06/2016 - D.O. ALEMS 24/06/16, pág. 3)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=0ARqdhbLjJk=).
 
 #### SEÇÃO III - DA ORDEM DO DIA
 
@@ -2400,7 +2418,7 @@ Art. 142. Da matéria constante da Ordem do Dia de Sessão ordinária, independe
 
 Parágrafo único. Não sendo votada, ou sendo transferida para outra Sessão a Ordem do Dia elaborada para determinada Sessão ordinária, o Deputado será tido por notificado quanto ao seu conteúdo.
 
-Art. 143. A presença de Deputado em Sessão plenária será conferida quando da abertura da Ordem do Dia, pela verificação do registro de sua assinatura na lista própria.
+~~Art. 143. A presença de Deputado em Sessão plenária será conferida quando da abertura da Ordem do Dia, pela verificação do registro de sua assinatura na lista própria.~~
 
 Art. 143. A presença de Deputado em Sessão plenária será conferida quando da abertura da Ordem do Dia para verificação do quórum regimental. ([Alteração feita de acordo com a Resolução nº 02/23, de 04/05/23 - D.O. AL/MS 05/05/23, pág. 3)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=VlAIxI2b4rBVS7saWaIVtQ==).
 
@@ -2664,15 +2682,15 @@ g) assuntos de sua economia interna e dos serviços administrativos.
 
 § 3º Com parecer favorável, o projeto a que se refere o § 1º deste artigo será incluído na Ordem do Dia, considerando-se aprovado se obtiver, em discussão e votação única, o voto favorável de, pelo menos, dois terços dos membros da Assembleia.
 
-§ 4º Cada Deputado poderá apresentar em cada Sessão Legislativa, apenas três projetos de Resolução destinados à concessão de título honorífico de cidadão sul-mato- grossense, que serão entregues em Sessão Solene, a ser realizada anual e preferencialmente no dia 11 de outubro, pessoalmente ao homenageado.
+~~§ 4º Cada Deputado poderá apresentar em cada Sessão Legislativa, apenas três projetos de Resolução destinados à concessão de título honorífico de cidadão sul-mato- grossense, que serão entregues em Sessão Solene, a ser realizada anual e preferencialmente no dia 11 de outubro, pessoalmente ao homenageado.~~
 
-§ 4º Cada Deputado poderá apresentar, em cada Sessão Legislativa, apenas três projetos de Resolução destinados à concessão de título honorífico de cidadão sul-mato-grossense, até cinco projetos destinados à concessão de outras honrarias instituídas pela Assembleia Legislativa, que serão entregues em sessão solene e pessoalmente ao homenageado. ([Alteração feita de acordo com a Resolução nº 26/11, de 06/07/2011 - D.O. 07/07/11, pág. 59)](https://www.spdo.ms.gov.br/diariodoe/Index/Download/DO7984_07_07_2011).
+~~§ 4º Cada Deputado poderá apresentar, em cada Sessão Legislativa, apenas três projetos de Resolução destinados à concessão de título honorífico de cidadão sul-mato-grossense, até cinco projetos destinados à concessão de outras honrarias instituídas pela Assembleia Legislativa, que serão entregues em sessão solene e pessoalmente ao homenageado~~. ([Alteração feita de acordo com a Resolução nº 26/11, de 06/07/2011 - D.O. 07/07/11, pág. 59)](https://www.spdo.ms.gov.br/diariodoe/Index/Download/DO7984_07_07_2011).
 
 § 4º Cada Deputado poderá apresentar, em cada Sessão Legislativa, apenas dois projetos de Resolução destinadas à concessão de título honorífico de cidadão sul-mato-grossense e dois projetos de Resolução destinados à concessão de comenda de Mérito Legislativo, que serão entregues em Sessão Solene e pessoalmente ao homenageado, nos termos do § 2º do art. 112 deste Regimento. ([Alteração feita de acordo com a Resolução nº 15/16, de 07/06/2016 - D.O. ALEMS 08/06/16, pág. 02 - SUPLEMENTO)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=XPAEloLWBF0=).
 
 § 5º Em casos excepcionais, devidamente justificados e aceitos pela Comissão Permanente de Constituição, Justiça e Redação, será admitida a entrega desses títulos aos representantes dos homenageados.
 
-§ 6º O limite a que se refere o § 4º não se aplica à concessão de outras honrarias instituídas pela Assembleia. ([Revogado pela Resolução nº 26/11, de 06/06/2011 - D.O. 07/07/11, pág. 59)](https://www.spdo.ms.gov.br/diariodoe/Index/Download/DO7984_07_07_2011).
+~~§ 6º O limite a que se refere o § 4º não se aplica à concessão de outras honrarias instituídas pela Assembleia.~~ ([Revogado pela Resolução nº 26/11, de 06/06/2011 - D.O. 07/07/11, pág. 59)](https://www.spdo.ms.gov.br/diariodoe/Index/Download/DO7984_07_07_2011).
 
 Art. 167. A iniciativa, quanto à apresentação de proposição à Assembleia será, nos termos da Constituição e deste Regimento:
 
@@ -2696,7 +2714,7 @@ Art. 168. São de iniciativa da Mesa da Assembleia, entre outros previstos neste
 
 I - que disponham sobre sua organização, funcionamento, polícia, criação, transformação ou extinção de cargos, empregos e funções de seus serviços e fixação da respectiva remuneração;
 
-II - de reforma parcial ou total do Regimento Interno; ([Revogado pela Resolução nº 35/13, de 22/05/2013 - D.O. ALEMS 24/05/13, pág. 05)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=7DSgTxu6rhw=).
+~~II - de reforma parcial ou total do Regimento Interno;~~ ([Revogado pela Resolução nº 35/13, de 22/05/2013 - D.O. ALEMS 24/05/13, pág. 05)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=7DSgTxu6rhw=).
 
 III - que fixem a remuneração e ajuda de custo dos deputados, bem assim os que fixem a remuneração do Governador, do Vice-Governador e Secretários de Estado.
 
@@ -3092,7 +3110,7 @@ V - os vetos.
 
 Art. 207. O Deputado, salvo expressa disposição regimental, só poderá falar uma vez e pelo prazo de dez minutos na discussão de qualquer projeto, observadas, ainda, as restrições contidas nos parágrafos deste artigo.
 
-§ 1º Na primeira ou em única discussão terão prioridade o autor do projeto, o Relator da Comissão de Constituição, Justiça Redação e mais dois deputados que se inscreverem previamente, um a favor e outro contra.
+~~§ 1º Na primeira ou em única discussão terão prioridade o autor do projeto, o Relator da Comissão de Constituição, Justiça Redação e mais dois deputados que se inscreverem previamente, um a favor e outro contra.~~
 
 § 1º Na discussão de qualquer projeto terão prioridade, o seu Autor, o relator de Comissão, observada a fase em que estiver analisando o projeto, e os deputados que se inscreverem previamente. ([Alterações feitas de acordo com a Resolução nº 86/10, de 08/12/2010 - D.O. 09/12/10, pág. 63)](https://www.spdo.ms.gov.br/diariodoe/Index/Download/DO7843_09_12_2010).
 
@@ -3290,7 +3308,7 @@ Parágrafo único. O Líder da Bancada, ou o Deputado, poderá fazer declaraçã
 
 #### SEÇÃO III - DAS MODALIDADES E PROCESSOS DE VOTAÇÃO
 
-Art. 221. Três são os processos de votação:
+~~Art. 221. Três são os processos de votação:~~
 
 Art. 221. Dois são os processos de votação: ([Alteração feita de acordo com a Resolução nº 67/13, de 10/10/2013 - D.O. ALEMS 14/10/13, pág. 04)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=ZcwzUss0BlQ=).
 
@@ -3298,17 +3316,17 @@ I - simbólico;
 
 II - nominal;
 
-III - secreto.
+~~III - secreto.~~
 
 III – ([Revogado pela Resolução nº 67/13, de 10/10/2013 - D.O. ALEMS 14/10/13, pág.04)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=ZcwzUss0BlQ=).
 
 Parágrafo único. Iniciada a votação por determinado processo, não será admitida qualquer alteração.
 
-Art. 222. Pelo processo simbólico, que se utilizará na votação das proposições em geral, o Presidente, ao anunciar a votação de qualquer matéria, convidará os deputados a favor a permanecerem como se acham e proclamará o resultado manifesto dos votos.
+~~Art. 222. Pelo processo simbólico, que se utilizará na votação das proposições em geral, o Presidente, ao anunciar a votação de qualquer matéria, convidará os deputados a favor a permanecerem como se acham e proclamará o resultado manifesto dos votos.~~
 
 Art. 222. Pelo processo simbólico, que se utilizará na votação das proposições contidas nos incisos V, VI, VII, VIII e IX do art. 160, o Presidente convidará os Deputados a favor a permanecerem como se acham e proclamará o resultado manifesto dos votos. ([Alteração feita de acordo com a Resolução nº 03/15, de 12/03/2015 - D.O. ALEMS 13/03/15, pág. 03)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=uu35bLtrocaDivZpLA=).
 
-Parágrafo único. A votação das proposições contidas nos incisos I, II, III e IV do art. 160 e a votação do veto contida no art. 260, § 3o deverão seguir o rito adotado no art. 224. ([Alteração feita de acordo com a Resolução nº 03/15, de 12/03/2015 - D.O. ALEMS 13/03/15, pág. 03)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=uu35bLtrocaDivZpLA=) ([Revogado pela Resolução nº 38/16, de 15/09/2016 - D.O. ALEMS 21/09/16, pág. 06)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=0xj9JDzlGi0=).
+~~Parágrafo único. A votação das proposições contidas nos incisos I, II, III e IV do art. 160 e a votação do veto contida no art. 260, § 3o deverão seguir o rito adotado no art. 224.~~ ([Alteração feita de acordo com a Resolução nº 03/15, de 12/03/2015 - D.O. ALEMS 13/03/15, pág. 03)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=uu35bLtrocaDivZpLA=) ([Revogado pela Resolução nº 38/16, de 15/09/2016 - D.O. ALEMS 21/09/16, pág. 06)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=0xj9JDzlGi0=).
 
 §1° A votação das proposições contidas nos incisos I, II, III e IV do art. 160 e a votação do veto contida no art. 260, §3° deverão seguir o rito adotado no art. 224. ([Acrescentado pela Resolução nº 38/16, de 15/09/2016 - D.O. ALEMS 21/09/16, pág. 06)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=0xj9JDzlGi0=).
 
@@ -3316,7 +3334,7 @@ Parágrafo único. A votação das proposições contidas nos incisos I, II, III
 
 Art. 223. O processo nominal será utilizado:
 
-I - por deliberação do Plenário, a requerimento, escrito ou verbal, de qualquer Deputado;
+~~I - por deliberação do Plenário, a requerimento, escrito ou verbal, de qualquer Deputado;~~
 
 I - A requerimento, escrito ou verbal, de qualquer Deputado; ([Alteração feita de acordo com a Resolução nº 03/15, de 12/03/2015 - D.O. ALEMS 13/03/15, pág. 03)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=uu35bLtrocaDivZpLA=).
 
@@ -3326,7 +3344,7 @@ III - nos demais casos expressos neste Regimento.
 
 Parágrafo único. O requerimento solicitando a adoção da votação nominal para análise de qualquer proposição não admitirá votação nominal.
 
-Art. 224. A votação nominal far-se-á pela lista geral dos deputados, que serão chamados, em voz alta, pelo 1º Secretário, e respondendo sim, ou não, conforme sejam favoráveis ou contrários ao que se estiver votando, sendo-lhes facultado declararem seu voto, indicando as razões pelas quais adota determinada posição em relação ao mérito da matéria, no prazo de até três minutos.
+~~Art. 224. A votação nominal far-se-á pela lista geral dos deputados, que serão chamados, em voz alta, pelo 1º Secretário, e respondendo sim, ou não, conforme sejam favoráveis ou contrários ao que se estiver votando, sendo-lhes facultado declararem seu voto, indicando as razões pelas quais adota determinada posição em relação ao mérito da matéria, no prazo de até três minutos.~~
 
 Art. 224. A votação nominal far-se-á pela lista geral dos Deputados, que serão chamados, em voz alta, pelo 1º Secretário, e respondendo sim, ou não, conforme sejam favoráveis ou contrários ao que se estiver votando, sendo-lhes facultado declararem seu voto, indicando as razões pelas quais adota determinada posição em relação à constitucionalidade e o mérito da matéria, no prazo de até um minuto". ([Alteração feita de acordo com a Resolução nº 03/15, de 12/03/2015 - D.O. ALEMS 13/03/15, pág. 03)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=uu35bLtrocaDivZpLA=).
 
@@ -3342,15 +3360,15 @@ Art. 224. A votação nominal far-se-á pela lista geral dos Deputados, que ser�
 
 § 6º A relação dos deputados que votarem a favor ou contra, será publicada no "Diário do Legislativo", que transcreverá a decisão da matéria, desde que assim o requeira qualquer Deputado.
 
-Art. 225. A votação por escrutínio secreto far-se-á com observância do disposto neste Regimento ou através de cédulas impressas ou datilografadas e recolhidas em urna à vista do Plenário, nos seguintes casos:
+~~Art. 225. A votação por escrutínio secreto far-se-á com observância do disposto neste Regimento ou através de cédulas impressas ou datilografadas e recolhidas em urna à vista do Plenário, nos seguintes casos:~~
 
 Art. 225. ([Revogado pela Resolução nº 64/13, de 08/10/2013 - D.O. ALEMS 09/10/13, pág.04)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=EB7afxRzYpY=).
 
-I - indicação de nome para Conselheiro do Tribunal de Contas ou para ocupar cargo ou função em órgãos estaduais; ([Revogado pela Resolução nº 64/13, de 08/10/2013 - D.O. ALEMS 09/10/13, pág.04)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=EB7afxRzYpY=).
+~~I - indicação de nome para Conselheiro do Tribunal de Contas ou para ocupar cargo ou função em órgãos estaduais;~~ ([Revogado pela Resolução nº 64/13, de 08/10/2013 - D.O. ALEMS 09/10/13, pág.04)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=EB7afxRzYpY=).
 
-II - concessão de título honorífico; ([Revogado pela Resolução nº 64/13, de 08/10/2013 - D.O. ALEMS 09/10/13, pág.04)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=EB7afxRzYpY=).
+~~II - concessão de título honorífico;~~ ([Revogado pela Resolução nº 64/13, de 08/10/2013 - D.O. ALEMS 09/10/13, pág.04)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=EB7afxRzYpY=).
 
-III - quando expressamente previsto neste Regimento. ([Revogado pela Resolução nº 64/13, de 08/10/2013 - D.O. ALEMS 09/10/13, pág.04)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=EB7afxRzYpY=).
+~~III - quando expressamente previsto neste Regimento.~~ ([Revogado pela Resolução nº 64/13, de 08/10/2013 - D.O. ALEMS 09/10/13, pág.04)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=EB7afxRzYpY=).
 
 #### SEÇÃO IV - DO PROCESSAMENTO DA VOTAÇÃO
 
@@ -3380,7 +3398,7 @@ III - votar-se-á em primeiro lugar o substitutivo de comissão e havendo mais d
 
 IV - aprovado o substitutivo, ficam prejudicados o projeto e as emendas a este oferecidas, ressalvadas as emendas ao substitutivo e todos os destaques;
 
-V - na hipótese de rejeição do substitutivo, ou na votação de projeto sem substitutivo, a proposição inicial será votada por último, depois das emendas que lhe tenham sido apresentadas;
+~~V - na hipótese de rejeição do substitutivo, ou na votação de projeto sem substitutivo, a proposição inicial será votada por último, depois das emendas que lhe tenham sido apresentadas;~~
 
 V - na hipótese de rejeição do substitutivo, ou na votação de projeto sem substitutivo, a proposição inicial será votada inicialmente e, após, devidamente ressalvadas, as emendas que lhe tenham sido apresentadas; ([Alteração feita de acordo com a Resolução nº 86/10, de 08/12/2010 - D.O. 09/12/10, pág. 63)](https://www.spdo.ms.gov.br/diariodoe/Index/Download/DO7843_09_12_2010).
 
@@ -3450,7 +3468,7 @@ Parágrafo único. Além de outros casos expressos neste Regimento, excetua-se d
 
 de emenda ou reforma à Constituição ou ao Regimento, cuja redação final competirá à Comissão Especial constituída para dar-lhe parecer;
 
-b) de Lei orçamentária, que incumbe à Comissão de Acompanhamento de Execução Orçamentária;
+~~b) de Lei orçamentária, que incumbe à Comissão de Acompanhamento de Execução Orçamentária;~~
 
 b) de Lei orçamentária, que incumbe à Comissão de Finanças e Orçamento; ([Alteração feita de acordo com a Resolução nº 31/15, de 11/08/2016 - D.O. ALEMS 12/08/16, pág. 05)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=BzEKW40dPvI=).
 
@@ -3718,7 +3736,7 @@ Art. 268. Quando se tratar de renúncia do Governador, ou do Vice-Governador, em
 
 ### CAPITULO III - DAS LICENÇAS DO GOVERNADOR
 
-Art. 269. O pedido de licença formulado pelo Governador do Estado, nos termos da art. 63, inciso XIII, da Constituição Estadual, terá o andamento previsto neste Regimento para o pedido análogo, de membro do Poder Legislativo.
+~~Art. 269. O pedido de licença formulado pelo Governador do Estado, nos termos da art. 63, inciso XIII, da Constituição Estadual, terá o andamento previsto neste Regimento para o pedido análogo, de membro do Poder Legislativo.~~
 
 Art. 269. O pedido de licença formulado pelo Governador do Estado, nos termos do art. 63, inciso XIII, da Constituição Estadual, obedecera a seguinte tramitação: ([Alteração feita de acordo com a Resolução nº 83/16, de 07/12/2016 - D.O. ALEMS 08/12/16, pág. 11)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=d5WNoXYWrKc=).
 
@@ -3756,7 +3774,7 @@ PROCESSO CRIMINAL CONTRA O GOVERNADOR DO ESTADO
 
 Art. 274. Cabe ao Poder Legislativo apreciar pedido de concessão de licença para processar, pela prática de crime comum, o Governador do Estado.
 
-Parágrafo único. Recebida a solicitação do Presidente do Superior Tribunal de Justiça, será a mesma encaminhada à Comissão de Constituição, Justiça e Redação, após sua leitura no expediente, publicação no "Diário do Legislativo" e distribuição de avulso aos deputados.
+~~Parágrafo único. Recebida a solicitação do Presidente do Superior Tribunal de Justiça, será a mesma encaminhada à Comissão de Constituição, Justiça e Redação, após sua leitura no expediente, publicação no "Diário do Legislativo" e distribuição de avulso aos deputados.~~
 
 Parágrafo único. Recebida a solicitação do Superior Tribunal de Justiça, será a mesma encaminhada à Comissão de Constituição, Justiça e Redação, após sua leitura no expediente, publicação no "Diário do Legislativo" e distribuição de avulso aos deputados. ([Alteração feita de acordo com a Resolução nº 86/10, de 08/12/2010 - D.O. 09/12/10, pág. 63)](https://www.spdo.ms.gov.br/diariodoe/Index/Download/DO7843_09_12_2010).
 
@@ -3832,7 +3850,7 @@ Art. 292. A mensagem do Poder Executivo, submetendo à apreciação da Assemblei
 
 § 2º Elaborado o projeto no sentido de aprovação da proposta governamental, e procedida a sua leitura no Expediente, a Mesa, independentemente de pauta, o encaminhará à Comissão de Constituição, Justiça e Redação para, no prazo de quarenta e oito horas, emitir parecer, de mérito inclusive.
 
-§ 3º Esgotado o prazo do artigo precedente, e oferecido ou não o parecer, será o projeto, que terá discussão e votação única, incluído na Ordem do Dia para imediata apreciação.
+~~§ 3º Esgotado o prazo do artigo precedente, e oferecido ou não o parecer, será o projeto, que terá discussão e votação única, incluído na Ordem do Dia para imediata apreciação.~~
 
 § 3º Esgotado o prazo do parágrafo precedente, e oferecido ou não o parecer, será o projeto, que terá discussão e votação única, incluído na Ordem do Dia para imediata apreciação. ([Alteração feita de acordo com a Resolução nº 86/10, de 08/12/2010 - D.O. 09/12/10, pág. 63)](https://www.spdo.ms.gov.br/diariodoe/Index/Download/DO7843_09_12_2010).
 
@@ -4066,11 +4084,11 @@ Art. 332. Recebida a proposta, a Mesa, depois de comunicar o fato ao Plenário, 
 
 § 2º Cumprido o prazo do parágrafo anterior, a Mesa encaminhará a proposta à Comissão de Constituição, Justiça e Redação, que dentro de cinco dias a apreciará, conjuntamente com as emendas, no seu aspecto Constitucional.
 
-§ 3º Recebido o parecer da Comissão de Constituição, Justiça e Redação, será a proposta encaminhada à Comissão de Acompanhamento da Execução Orçamentária para que, no prazo de dez dias, se manifeste quanto ao mérito da proposição e das emendas.
+~~§ 3º Recebido o parecer da Comissão de Constituição, Justiça e Redação, será a proposta encaminhada à Comissão de Acompanhamento da Execução Orçamentária para que, no prazo de dez dias, se manifeste quanto ao mérito da proposição e das emendas.~~
 
 § 3º Recebido o parecer da Comissão de Constituição, Justiça e Redação, será a proposta encaminhada à Comissão de Finanças e Orçamento para que, no prazo de dez dias, se manifeste quanto ao mérito da proposição e das emendas. ([Alteração feita de acordo com a Resolução nº 31/16, de 11/08/2016 - D.O. ALEMS 12/08/16, pág. 05)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=BzEKW40dPvI=).
 
-Art. 333. Para maior facilidade de estudo da matéria, poderá a Comissão de Acompanhamento da Execução Orçamentária dividir a proposta por partes, cabendo, neste caso, a cada Relator designado, apreciar uma das partes e, ao Relator Geral, elaborar o parecer conjunto.
+~~Art. 333. Para maior facilidade de estudo da matéria, poderá a Comissão de Acompanhamento da Execução Orçamentária dividir a proposta por partes, cabendo, neste caso, a cada Relator designado, apreciar uma das partes e, ao Relator Geral, elaborar o parecer conjunto.~~
 
 Art. 333. Para maior facilidade de estudo da matéria, poderá a Comissão de Finanças e Orçamento dividir a proposta por partes, cabendo, neste caso, a cada Relator designado, apreciar uma das partes e, ao Relator Geral, elaborar o parecer conjunto. ([Alteração feita de acordo com a Resolução nº 31/16, de 11/08/2016 - D.O. ALEMS 12/08/16, pág. 05)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=BzEKW40dPvI=).
 
@@ -4082,13 +4100,13 @@ Art. 335. Depois de devidamente instruída, a proposta será incluída na Ordem 
 
 § 2º Para falar, terão preferência os Líderes Partidários e os autores de emendas e, sobre eles, os Relatores.
 
-Art. 336. Se for aprovada qualquer emenda, a proposta retornará à Comissão de Acompanhamento da Execução Orçamentária para, dentro de dois dias, proceder ao competente entrosamento.
+~~Art. 336. Se for aprovada qualquer emenda, a proposta retornará à Comissão de Acompanhamento da Execução Orçamentária para, dentro de dois dias, proceder ao competente entrosamento.~~
 
 Art. 336. Se for aprovada qualquer emenda, a proposta retornará à Comissão de Finanças e Orçamento para, dentro de dois dias, proceder ao competente entrosamento. ([Alteração feita de acordo com a Resolução nº 31/16, de 11/08/2016 - D.O. ALEMS 12/08/16, pág. 05)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=BzEKW40dPvI=).
 
 Parágrafo único. Após o entrosamento, ou na hipótese de ter sido aprovada sem emendas, a proposta ficará em Pauta durante cinco dias, para recebimento de emendas de segunda discussão.
 
-Art. 337. Encerrado o prazo previsto no parágrafo único do artigo anterior, voltará a proposta às comissões de Constituição, Justiça e Redação e, de Acompanhamento da Execução Orçamentária, para, dentro de quarenta e oito horas a primeira, e de três dias a segunda, pronunciarem-se sobre as emendas. Findo esses prazos, retornará o projeto à Ordem do Dia, para segunda discussão e votação.
+~~Art. 337. Encerrado o prazo previsto no parágrafo único do artigo anterior, voltará a proposta às comissões de Constituição, Justiça e Redação e, de Acompanhamento da Execução Orçamentária, para, dentro de quarenta e oito horas a primeira, e de três dias a segunda, pronunciarem-se sobre as emendas. Findo esses prazos, retornará o projeto à Ordem do Dia, para segunda discussão e votação.~~
 
 Art. 337. Encerrado o prazo previsto no parágrafo único do artigo anterior, voltará a proposta às comissões de Constituição, Justiça e Redação e, de Finanças e Orçamento, para, dentro de quarenta e oito horas a primeira, e de três dias a segunda, pronunciarem-se sobre as emendas. Findo esses prazos, retornará o projeto à Ordem do Dia, para segunda discussão e votação. ([Alteração feita de acordo com a Resolução nº 31/16, de 11/08/2016 - D.O. ALEMS 12/08/16, pág. 05)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=BzEKW40dPvI=).
 
@@ -4096,11 +4114,11 @@ Art. 337. Encerrado o prazo previsto no parágrafo único do artigo anterior, vo
 
 § 2º Na segunda discussão observar-se-á o disposto nos §§ 1° e 2º do art. 335, sendo a respectiva votação feita por artigos, ou seções de artigos, com as emendas correspondentes.
 
-Art. 338. Encerrada a votação, será a proposta encaminhada novamente à comissão de Acompanhamento da Execução Orçamentária, para elaborar a redação final, no prazo máximo de cinco dias, que após, será incluída na Ordem do Dia
+~~Art. 338. Encerrada a votação, será a proposta encaminhada novamente à comissão de Acompanhamento da Execução Orçamentária, para elaborar a redação final, no prazo máximo de cinco dias, que após, será incluída na Ordem do Dia~~
 
 Art. 338. Encerrada a votação, será a proposta encaminhada novamente à Comissão de Finanças e Orçamento, para elaborar a redação final, no prazo máximo de cinco dias, que após, será incluída na Ordem do Dia. ([Alteração feita de acordo com a Resolução nº 31/16, de 11/08/2016 - D.O. ALEMS 12/08/16, pág. 05)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=BzEKW40dPvI=).
 
-Parágrafo único. Se forem apresentadas emendas, serão estas votadas em primeiro lugar, após parecer verbal da Comissão de Acompanhamento da Execução Orçamentária, que deverá ser proferido na mesma Sessão. Aprovada qualquer emenda, será a proposta encaminhada à mesma comissão para novo parecer de redação, em vinte e quatro horas.
+~~Parágrafo único. Se forem apresentadas emendas, serão estas votadas em primeiro lugar, após parecer verbal da Comissão de Acompanhamento da Execução Orçamentária, que deverá ser proferido na mesma Sessão. Aprovada qualquer emenda, será a proposta encaminhada à mesma comissão para novo parecer de redação, em vinte e quatro horas.~~
 
 Parágrafo único. Se forem apresentadas emendas, serão estas votadas em primeiro lugar, após parecer verbal da Comissão de Finanças e Orçamento, que deverá ser proferido na mesma Sessão. Aprovada qualquer emenda, será a proposta encaminhada à mesma comissão para novo parecer de redação, em vinte e quatro horas. ([Alteração feita de acordo com a Resolução nº 31/16, de 11/08/2016 - D.O. ALEMS 12/08/16, pág. 05)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=BzEKW40dPvI=).
 
@@ -4150,7 +4168,7 @@ Art. 345. Caso seja apresentado mais de um nome para a mesma vaga, a Mesa encami
 
 § 2º Aprovada uma indicação, serão as demais consideradas prejudicadas e encaminhadas ao arquivo.
 
-Art. 346. Aprovado o nome para Conselheiro do Tribunal de Contas, a Mesa Diretora encaminhará a resolução respectiva para publicação, ao mesmo tempo que dela dará conhecimento ao Governador do Estado, para os fins do disposto no art. 89, III da Constituição Estadual.
+~~Art. 346. Aprovado o nome para Conselheiro do Tribunal de Contas, a Mesa Diretora encaminhará a resolução respectiva para publicação, ao mesmo tempo que dela dará conhecimento ao Governador do Estado, para os fins do disposto no art. 89, III da Constituição Estadual.~~
 
 Art. 346. Aprovado o nome para Conselheiro do Tribunal de Contas, a Mesa Diretora encaminhará o projeto de Decreto Legislativo respectivo para publicação, ao mesmo tempo que dela dará conhecimento ao Governador do Estado, para os fins do disposto no art. 89, III da Constituição Estadual. ([Alteração feita de acordo com a Resolução nº 86/10, de 07/12/2010 - D.O. 09/12/10, pág. 63)](https://www.spdo.ms.gov.br/diariodoe/Index/Download/DO7843_09_12_2010).
 
