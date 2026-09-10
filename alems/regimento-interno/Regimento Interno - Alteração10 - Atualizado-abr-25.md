@@ -95,134 +95,134 @@ Anexo da Resolução nº 65/08, de 17 de dezembro de 2008
 
 ## Sumário
 
-- TITULO I - DISPOSIÇÕES PRELIMINARES
-- Capitulo I - Da Sede — Arts. 1º a 4º
-- Capítulo II - Da Instalação da Legislatura e da Eleição da Mesa Diretora
-  - Seção I - Da Instalação da Legislatura — Arts. 5º a 9º
-  - Seção II - Da Eleição da Mesa Diretora — Arts. 10 a 18
-- Capítulo III - Da Instalação da Sessão Legislativa — Arts. 19 a 24
-- TITULO II - DOS ÓRGÃOS DA ASSEMBLEIA
-- Capítulo I - Da Mesa Diretora
-  - Seção I - Disposições Preliminares — Arts. 25 a 29
-  - Seção II - Da Competência — Arts. 30 e 31
-  - Seção III - Da Presidência — Arts. 32 e 33
-  - Seção IV - Da Vice Presidência — Art. 34
-  - Seção V - Da Secretaria — Arts. 35 a 38
-- Capítulo II - Das Comissões
-  - Seção I - Disposições Gerais — Arts. 39 a 41
-  - Seção II - Das Comissões Permanentes
-    - Subseção I - Das Disposições Preliminares — Art. 42
-    - Subseção II - Da Composição e Instalação — Arts. 43 a 45
-    - Subseção III - Das Matérias e Atividades de Competência das Comissões — Art. 46
-  - Seção III - Das Comissões Temporárias — Art. 47
-    - Subseção I - Das Comissões de Representação — Art. 48
-    - Subseção II - Das Comissões Especiais — Art. 49
-    - Subseção III - Das Comissões Parlamentares de Inquérito — Arts. 50 a 52
-  - Seção IV - Da Presidência — Arts. 53 a 56
-  - Seção V - Dos Impedimentos e Ausências — Arts. 57 e 58
-  - Seção VI - Das Vagas — Art. 59
-  - Seção VII - Das Reuniões — Arts. 60 a 65
-  - Seção VIII - Da Vista — Art. 66
-  - Seção IX - Da Administração e Apreciação das Matérias — Arts. 67 e 68
-  - Seção X - Da Fiscalização e Controle — Arts. 69 e 70
-  - Seção XI - Da Distribuição de Matérias — Art. 71
-  - Seção XII - Dos Pareceres — Arts. 72 a 74
-  - Seção XIII - Da Secretaria e das Atas — Arts. 75 e 76
-- TÍTULO III - DOS DEPUTADOS
-- Capítulo I - Disposições Preliminares — Art. 77
-- Capítulo II - Da Posse — Art. 78
-- Capítulo III - Do Exercício do Mandato — Art. 79
-- Capítulo IV - Das Vagas — Art. 80
-- Capítulo V - Das Licenças — Arts. 81 a 87
-- Capítulo VI - Da Perda e da Suspensão do Exercício do Mandato
-  - Seção I - Da Perda do Mandato — Arts. 88 a 90
-  - Seção II - Da Suspensão do Exercício do Mandato — Art. 91
-- Capítulo VII - Da Remuneração — Arts. 92 a 95
-- Capítulo VIII - Do Líder — Arts. 96 a 99
-- Capítulo IX - Dos Blocos Parlamentares, da Maioria e da Minoria e das Frentes Parlamentares — Arts. 100 e 101
-- Capítulo X - Do Nome Parlamentar — Art. 102
-- TÍTULO IV - DAS SESSÕES
-- Capítulo I - Disposições Preliminares — Arts. 103 a 113
-- Capítulo II - Da Suspensão e do Levantamento das Sessões — Arts. 114 a 117
-- Capítulo III - Da Ordem dos Trabalhos — Arts. 118 a 125
-- Capítulo IV - Dos Oradores — Arts. 126 a 133
-- Capítulo V - Das Sessões Ordinárias
-  - Seção I - Do Pequeno Expediente — Arts. 134 a 137
-  - Seção II - Do Grande Expediente — Arts. 138 a 141
-  - Seção III - Da Ordem do Dia — Arts. 142 a 149
-  - Seção IV - Da Explicação Pessoal — Art. 150
-  - Seção V - Das Atas e do Diário do Legislativo — Arts. 151 a 158
-- Capítulo VI - Das Sessões Secretas — Art. 159
-- TÍTULO V - DAS PROPOSIÇÕES
-- Capítulo I - Das Disposições Gerais — Arts. 160 a 165
-- Capítulo II - Dos Projetos — Arts. 166 a 170
-- Capítulo III - Dos Requerimentos
-  - Seção I - Sujeitos a Despacho do Presidente — Arts. 171 e 172
-  - Seção II - Sujeitos a Deliberação do Plenário — Art. 173
-  - Seção III - Dos Requerimentos de Informações a Secretário de Estado — Arts. 174 e 175
-- Capítulo IV - Das Indicações — Arts. 176 a 178
-- Capítulo V - Das Emendas — Arts. 179 a 183
-- Capítulo VI - Da Prejudicialidade — Arts. 184 e 185
-- TÍTULO VI - DA TRAMITAÇÃO
-- Capítulo I - Da Distribuição das Proposições — Arts. 186 e 187
-- TÍTULO VII - DO PROCESSO DE APRECIAÇÃO DAS PROPOSIÇÕES LEGISLATIVAS
-- Capítulo I - Da Pauta — Arts. 188 a 192
-- Capítulo II - Da Apreciação das Proposições Legislativas — Arts. 193 a 197
-- Capítulo III - Dos Turnos a que estão Sujeitas as Proposições — Arts. 198 a 200
-- Capítulo IV - Do Interstício — Art. 201
-- Capítulo V - Do Destaque — Arts. 202 e 203
-- Capítulo VI - Da Discussão
-  - Seção I - Disposições Gerais — Arts. 204 a 206
-  - Seção II - Do Uso da Palavra — Art. 207
-  - Seção III - Do Aparte — Art. 208
-  - Seção IV - Dos Prazos para uso da Palavra — Art. 209
-  - Seção V - Do Adiamento da Discussão — Arts. 210 a 212
-  - Seção VI - Do Pedido de Vista — Arts. 213 e 214
-- Capítulo VII - Da Votação
-  - Seção I - Disposições Gerais — Arts. 215 a 217
-  - Seção II - Do Quórum especial e da Obstrução — Arts. 218 a 220
-  - Seção III - Das Modalidades e Processo de Votação — Arts. 221 a 225
-  - Seção IV - Do Processamento da Votação — Arts. 226 e 227
-  - Seção V - Do Encaminhamento — Arts. 228 e 229
-  - Seção VI - Do Adiamento — Arts. 230 a 232
-- Capítulo VIII - Da Redação Final — Arts. 233 a 236
-- Capítulo IX - Dos Regimes Especiais de Votação
-  - Seção I - Da Urgência — Arts. 237 a 245
-  - Seção II - Da Prioridade — Arts. 246 a 251
-  - Seção III - Da Preferência — Arts. 252 a 259
-  - Seção IV - Do Veto — Art. 260
-- TÍTULO VIII - DAS ATIVIDADES RELACIONADAS COM O GOVERNADOR
-- Capítulo I - Da Posse do Governador e do Vice-Governador — Arts. 261 a 266
-- Capítulo II - Da Renúncia do Governador — Arts. 267 e 268
-- Capítulo III - Das Licenças do Governador — Art. 269
-- Capítulo IV - Da Tomada de Contas do Governador — Arts. 270 a 273
-- Capítulo V - Da Autorização para Instauração de Processo Criminal contra o Governador do Estado — Arts. 274 a 284
-- TÍTULO IX - DA DIVISÃO TERRITORIAL E ADMINISTRATIVA DO ESTADO — Arts. 285 a 290
-- TÍTULO X - DA APRECIAÇÃO DE NOMES PROPOSTOS PELO GOVERNADOR — Arts. 291 a 293
-- TÍTULO XI - DO REGIMENTO INTERNO
-- Capítulo I - Da Interpretação e Observância do Regimento
-  - Seção I - Das Questões de Ordem — Arts. 294 a 299
-  - Seção II - Das Reclamações ou da Palavra “pela Ordem” — Art. 300
-- Capítulo II - Da Reforma do Regimento — Arts. 301 a 309
-- TÍTULO XII - DA CONSTITUIÇÃO
-- Capítulo I - Da Reforma da Constituição — Arts. 310 a 322
-- Capítulo II - Da Proposta de Emenda à Constituição Federal — Arts. 323 e 324
-- TÍTULO XIII - DA PALAVRA “PELO PROTOCOLO” — Art. 325
-- TÍTULO XIV - DA ELABORAÇÃO LEGISLATIVA ESPECIAL
-- Capítulo I - Dos Códigos, Leis Orgânicas, Estatutos e Consolidações — Arts. 326 a 330
-- Capítulo II - Do Orçamento — Arts. 331 a 341
-- TÍTULO XV - DA INDICAÇÃO DE NOMES PELA ASSEMBLEIA LEGISLATIVA PARA O TRIBUNAL DE CONTAS — Arts. 342 a 346
-- TÍTULO XVI - DA CONVOCAÇÃO DE SECRETÁRIOS DE ESTADO E DE DIRIGENTES DE ENTIDADES DA ADMINISTRAÇÃO DIRETA — Arts. 347 a 353
-- TÍTULO XVII - DA CONVOCAÇÃO EXTRAORDINÁRIA — Arts. 354 a 357
-- TÍTULO XVIII - DO SERVIÇO DE SEGURANÇA DA ASSEMBLEIA — Arts. 358 a 363
-- TÍTULO XIX - DA ADMINISTRAÇÃO — Arts. 364 e 365
-- TÍTULO XX - DA CORREGEDORIA PARLAMENTAR — Arts. 366 e 367
-- TÍTULO XXI - DA CONSULTORIA TÉCNICA JURÍDICA DO PODER LEGISLATIVO — Arts. 368 e 369
-- TÍTULO XXII - DA PARTICIPAÇÃO DA SOCIEDADE CIVIL
-- Capítulo I - Da Iniciativa Popular de Lei — Art. 370
-- Capítulo II - Das Petições e Representações e outras Formas de Participação — Arts. 371 e 372
-- TÍTULO XXIII - DO CREDENCIAMENTO DA IMPRENSA — Art. 373
-- TÍTULO XXIV - DISPOSIÇÕES FINAIS — Arts. 374 e 375
+- [TITULO I - DISPOSIÇÕES PRELIMINARES](#titulo-i---disposições-preliminares)
+- [Capitulo I - Da Sede](#capitulo-i---da-sede) — Arts. 1º a 4º
+- [Capítulo II - Da Instalação da Legislatura e da Eleição da Mesa Diretora](#capitulo-ii---da-instalação-da-legislatura-e-eleição-da-mesa-diretora)
+  - [Seção I - Da Instalação da Legislatura](#seção-i---da-instalação-da-legislatura) — Arts. 5º a 9º
+  - [Seção II - Da Eleição da Mesa Diretora](#seção-ii---da-eleição-da-mesa-diretora) — Arts. 10 a 18
+- [Capítulo III - Da Instalação da Sessão Legislativa](#capitulo-iii---da-instalação-da-sessão-legislativa) — Arts. 19 a 24
+- [TITULO II - DOS ÓRGÃOS DA ASSEMBLEIA](#titulo-ii---dos-órgãos-da-assembleia)
+- [Capítulo I - Da Mesa Diretora](#capitulo-i---da-mesa-diretora)
+  - [Seção I - Disposições Preliminares](#seção-i---disposições-preliminares) — Arts. 25 a 29
+  - [Seção II - Da Competência](#seção-ii---da-competência) — Arts. 30 e 31
+  - [Seção III - Da Presidência](#seção-iii---da-presidência) — Arts. 32 e 33
+  - [Seção IV - Da Vice Presidência](#seção-iv---da-vice-presidência) — Art. 34
+  - [Seção V - Da Secretaria](#seção-v---da-secretaria) — Arts. 35 a 38
+- [Capítulo II - Das Comissões](#capitulo-ii---das-comissões)
+  - [Seção I - Disposições Gerais](#seção-i---disposições-gerais) — Arts. 39 a 41
+  - [Seção II - Das Comissões Permanentes](#seção-ii---das-comissões-permanentes)
+    - [Subseção I - Das Disposições Preliminares](#subseção-i---das-disposições-preliminares) — Art. 42
+    - [Subseção II - Da Composição e Instalação](#subseção-ii---da-composição-e-instalação) — Arts. 43 a 45
+    - [Subseção III - Das Matérias e Atividades de Competência das Comissões](#subseção-iii---das-matérias-e-atividades-de-competência-das-comissões) — Art. 46
+  - [Seção III - Das Comissões Temporárias](#seção-iii---das-comissões-temporárias) — Art. 47
+    - [Subseção I - Das Comissões de Representação](#subseção-i---das-comissões-de-representação) — Art. 48
+    - [Subseção II - Das Comissões Especiais](#subseção-ii---das-comissões-especiais) — Art. 49
+    - [Subseção III - Das Comissões Parlamentares de Inquérito](#subseção-iii---das-comissões-parlamentares-de-inquérito) — Arts. 50 a 52
+  - [Seção IV - Da Presidência](#seção-iv---da-presidência) — Arts. 53 a 56
+  - [Seção V - Dos Impedimentos e Ausências](#seção-v---dos-impedimentos-e-ausências) — Arts. 57 e 58
+  - [Seção VI - Das Vagas](#seção-vi---das-vagas) — Art. 59
+  - [Seção VII - Das Reuniões](#seção-vii---das-reuniões) — Arts. 60 a 65
+  - [Seção VIII - Da Vista](#seção-viii---da-vista) — Art. 66
+  - [Seção IX - Da Administração e Apreciação das Matérias](#seção-ix---da-administração-e-apreciação-das-matérias) — Arts. 67 e 68
+  - [Seção X - Da Fiscalização e Controle](#seção-x---da-fiscalização-e-controle) — Arts. 69 e 70
+  - [Seção XI - Da Distribuição de Matérias](#seção-xi---da-distribuição-de-matéria) — Art. 71
+  - [Seção XII - Dos Pareceres](#seção-xii---dos-pareceres) — Arts. 72 a 74
+  - [Seção XIII - Da Secretaria e das Atas](#seção-xiii---da-secretaria-e-das-atas) — Arts. 75 e 76
+- [TÍTULO III - DOS DEPUTADOS](#titulo-iii---dos-deputados)
+- [Capítulo I - Disposições Preliminares](#capitulo-i---disposições-preliminares) — Art. 77
+- [Capítulo II - Da Posse](#capitulo-ii---da-posse) — Art. 78
+- [Capítulo III - Do Exercício do Mandato](#capitulo-iii---do-exercício-do-mandato) — Art. 79
+- [Capítulo IV - Das Vagas](#capitulo-iv---das-vagas) — Art. 80
+- [Capítulo V - Das Licenças](#capitulo-v---das-licenças) — Arts. 81 a 87
+- [Capítulo VI - Da Perda e da Suspensão do Exercício do Mandato](#capitulo-vi---da-perda-e-da-suspensão-do-exercício-do-mandato)
+  - [Seção I - Da Perda do Mandato](#seção-i---da-perda-do-mandato) — Arts. 88 a 90
+  - [Seção II - Da Suspensão do Exercício do Mandato](#seção-ii---da-suspensão-do-exercício-do-mandato) — Art. 91
+- [Capítulo VII - Da Remuneração](#capitulo-vii---da-remuneração) — Arts. 92 a 95
+- [Capítulo VIII - Do Líder](#capitulo-viii---do-líder) — Arts. 96 a 99
+- [Capítulo IX - Dos Blocos Parlamentares, da Maioria e da Minoria e das Frentes Parlamentares](#capitulo-ix---dos-blocos-parlamentares-da-maioria) — Arts. 100 e 101
+- [Capítulo X - Do Nome Parlamentar](#capitulo-x---do-nome-parlamentar) — Art. 102
+- [TÍTULO IV - DAS SESSÕES](#titulo-iv---das-sessões)
+- [Capítulo I - Disposições Preliminares](#capitulo-i---disposições-preliminares-1) — Arts. 103 a 113
+- [Capítulo II - Da Suspensão e do Levantamento das Sessões](#capitulo-ii---da-suspensão-e-do-levantamento-das-sessões) — Arts. 114 a 117
+- [Capítulo III - Da Ordem dos Trabalhos](#capitulo-iii---da-ordem-dos-trabalhos) — Arts. 118 a 125
+- [Capítulo IV - Dos Oradores](#capitulo-iv---dos-oradores) — Arts. 126 a 133
+- [Capítulo V - Das Sessões Ordinárias](#capitulo-v---das-sessões-ordinárias)
+  - [Seção I - Do Pequeno Expediente](#seção-i---do-pequeno-expediente) — Arts. 134 a 137
+  - [Seção II - Do Grande Expediente](#seção-ii---do-grande-expediente) — Arts. 138 a 141
+  - [Seção III - Da Ordem do Dia](#seção-iii---da-ordem-do-dia) — Arts. 142 a 149
+  - [Seção IV - Da Explicação Pessoal](#seção-iv---da-explicação-pessoal) — Art. 150
+  - [Seção V - Das Atas e do Diário do Legislativo](#seção-v---das-atas-e-do-diário-do-legislativo) — Arts. 151 a 158
+- [Capítulo VI - Das Sessões Secretas](#capitulo-vi---das-sessões-secretas) — Art. 159
+- [TÍTULO V - DAS PROPOSIÇÕES](#titulo-v---das-proposições)
+- [Capítulo I - Das Disposições Gerais](#capitulo-i---disposições-gerais) — Arts. 160 a 165
+- [Capítulo II - Dos Projetos](#capitulo-ii---dos-projetos) — Arts. 166 a 170
+- [Capítulo III - Dos Requerimentos](#capitulo-iii---dos-requerimentos)
+  - [Seção I - Sujeitos a Despacho do Presidente](#seção-i---sujeitos-a-despacho-do-presidente) — Arts. 171 e 172
+  - [Seção II - Sujeitos a Deliberação do Plenário](#seção-ii---sujeitos-a-deliberação-do-plenário) — Art. 173
+  - [Seção III - Dos Requerimentos de Informações a Secretário de Estado](#seção-iii---dos-requerimentos-de-informações-a-secretário-de-estado) — Arts. 174 e 175
+- [Capítulo IV - Das Indicações](#capitulo-iv---das-indicações) — Arts. 176 a 178
+- [Capítulo V - Das Emendas](#capitulo-v---das-emendas) — Arts. 179 a 183
+- [Capítulo VI - Da Prejudicialidade](#capitulo-vi---da-prejudicialidade) — Arts. 184 e 185
+- [TÍTULO VI - DA TRAMITAÇÃO](#título-vi---da-tramitação)
+- [Capítulo I - Da Distribuição das Proposições](#capitulo-i---da-distribuição-das-proposições) — Arts. 186 e 187
+- [TÍTULO VII - DO PROCESSO DE APRECIAÇÃO DAS PROPOSIÇÕES LEGISLATIVAS](#titulo-vii---do-processo-de-apreciação-das-proposições-legislativas)
+- [Capítulo I - Da Pauta](#capítulo-i---da-pauta) — Arts. 188 a 192
+- [Capítulo II - Da Apreciação das Proposições Legislativas](#capitulo-ii---da-apreciação-das-proposições-legislativas) — Arts. 193 a 197
+- [Capítulo III - Dos Turnos a que estão Sujeitas as Proposições](#capitulo-iii---dos-turnos-a-que-estão-sujeitas-as-proposições) — Arts. 198 a 200
+- [Capítulo IV - Do Interstício](#capitulo-iv---do-interstício) — Art. 201
+- [Capítulo V - Do Destaque](#capitulo-v---do-destaque) — Arts. 202 e 203
+- [Capítulo VI - Da Discussão](#capitulo-vi---da-discussão)
+  - [Seção I - Disposições Gerais](#seção-i---disposições-gerais-1) — Arts. 204 a 206
+  - [Seção II - Do Uso da Palavra](#seção-ii---do-uso-da-palavra) — Art. 207
+  - [Seção III - Do Aparte](#seção-iii---do-aparte) — Art. 208
+  - [Seção IV - Dos Prazos para uso da Palavra](#seção-iv---dos-prazos-para-uso-da-palavra) — Art. 209
+  - [Seção V - Do Adiamento da Discussão](#seção-v---do-adiamento-da-discussão) — Arts. 210 a 212
+  - [Seção VI - Do Pedido de Vista](#seção-vi---do-pedido-de-vista) — Arts. 213 e 214
+- [Capítulo VII - Da Votação](#capitulo-vii---da-votação)
+  - [Seção I - Disposições Gerais](#seção-i---disposições-gerais-2) — Arts. 215 a 217
+  - [Seção II - Do Quórum especial e da Obstrução](#seção-ii---do-quorum-especial-e-da-obstrução) — Arts. 218 a 220
+  - [Seção III - Das Modalidades e Processo de Votação](#seção-iii---das-modalidades-e-processos-de-votação) — Arts. 221 a 225
+  - [Seção IV - Do Processamento da Votação](#seção-iv---do-processamento-da-votação) — Arts. 226 e 227
+  - [Seção V - Do Encaminhamento](#seção-v---do-encaminhamento) — Arts. 228 e 229
+  - [Seção VI - Do Adiamento](#seção-vi---do-adiamento) — Arts. 230 a 232
+- [Capítulo VIII - Da Redação Final](#capitulo-viii---da-redação-final) — Arts. 233 a 236
+- [Capítulo IX - Dos Regimes Especiais de Votação](#capitulo-ix---dos-regimes-especiais-de-votação)
+  - [Seção I - Da Urgência](#seção-i---da-urgência) — Arts. 237 a 245
+  - [Seção II - Da Prioridade](#seção-ii---da-prioridade) — Arts. 246 a 251
+  - [Seção III - Da Preferência](#seção-iii---da-preferência) — Arts. 252 a 259
+  - [Seção IV - Do Veto](#seção-iv---do-veto) — Art. 260
+- [TÍTULO VIII - DAS ATIVIDADES RELACIONADAS COM O GOVERNADOR](#titulo-viii---das-atividades-relacionadas-com-o-governador)
+- [Capítulo I - Da Posse do Governador e do Vice-Governador](#capitulo-i---da-posse-do-governador-e-do-vice-governador) — Arts. 261 a 266
+- [Capítulo II - Da Renúncia do Governador](#capitulo-ii---da-renúncia-do-governador) — Arts. 267 e 268
+- [Capítulo III - Das Licenças do Governador](#capitulo-iii---das-licenças-do-governador) — Art. 269
+- [Capítulo IV - Da Tomada de Contas do Governador](#capitulo-iv---da-tomada-de-contas-do-governador) — Arts. 270 a 273
+- [Capítulo V - Da Autorização para Instauração de Processo Criminal contra o Governador do Estado](#capitulo-v---da-autorização-para-instauração-de) — Arts. 274 a 284
+- [TÍTULO IX - DA DIVISÃO TERRITORIAL E ADMINISTRATIVA DO ESTADO](#titulo-ix---da-divisão-territorial-e-administrativa-do-estado) — Arts. 285 a 290
+- [TÍTULO X - DA APRECIAÇÃO DE NOMES PROPOSTOS PELO GOVERNADOR](#título-x---da-apreciação-de-nomes-propostos-pelo-governador) — Arts. 291 a 293
+- [TÍTULO XI - DO REGIMENTO INTERNO](#titulo-xi---do-regimento-interno)
+- [Capítulo I - Da Interpretação e Observância do Regimento](#capitulo-i---da-interpretação-e-observância-do-regimento)
+  - [Seção I - Das Questões de Ordem](#seção-i---das-questões-de-ordem) — Arts. 294 a 299
+  - [Seção II - Das Reclamações ou da Palavra “pela Ordem”](#seção-ii---das-reclamações-ou-da-palavra-pela-ordem) — Art. 300
+- [Capítulo II - Da Reforma do Regimento](#capitulo-ii---da-reforma-do-regimento) — Arts. 301 a 309
+- [TÍTULO XII - DA CONSTITUIÇÃO](#titulo-xii---da-constituição)
+- [Capítulo I - Da Reforma da Constituição](#capitulo-i---da-reforma-da-constituição) — Arts. 310 a 322
+- [Capítulo II - Da Proposta de Emenda à Constituição Federal](#capitulo-ii---da-proposta-de-emenda-à-constituição-federal) — Arts. 323 e 324
+- [TÍTULO XIII - DA PALAVRA “PELO PROTOCOLO”](#titulo-xiii---da-palavra-pelo-protocolo) — Art. 325
+- [TÍTULO XIV - DA ELABORAÇÃO LEGISLATIVA ESPECIAL](#titulo-xiv---da-elaboração-legislativa-especial)
+- [Capítulo I - Dos Códigos, Leis Orgânicas, Estatutos e Consolidações](#capitulo-i---dos-códigos-leis-orgânicas-estatutos-e-consolidações) — Arts. 326 a 330
+- [Capítulo II - Do Orçamento](#capitulo-ii---do-orçamento) — Arts. 331 a 341
+- [TÍTULO XV - DA INDICAÇÃO DE NOMES PELA ASSEMBLEIA LEGISLATIVA PARA O TRIBUNAL DE CONTAS](#titulo-xv---da-indicação-de-nomes-pela) — Arts. 342 a 346
+- [TÍTULO XVI - DA CONVOCAÇÃO DE SECRETÁRIOS DE ESTADO E DE DIRIGENTES DE ENTIDADES DA ADMINISTRAÇÃO DIRETA](#titulo-xvi---da-convocação-de-secretários-de-estado-e-de-dirigentes-de-entidades-da-administração-direta) — Arts. 347 a 353
+- [TÍTULO XVII - DA CONVOCAÇÃO EXTRAORDINÁRIA](#titulo-xvii---da-convocação-extraordinária) — Arts. 354 a 357
+- [TÍTULO XVIII - DO SERVIÇO DE SEGURANÇA DA ASSEMBLEIA](#titulo-xviii---do-serviço-de-segurança-da-assembleia) — Arts. 358 a 363
+- [TÍTULO XIX - DA ADMINISTRAÇÃO](#titulo-xix---da-administração) — Arts. 364 e 365
+- [TÍTULO XX - DA CORREGEDORIA PARLAMENTAR](#título-xx---da-corregedoria-parlamentar) — Arts. 366 e 367
+- [TÍTULO XXI - DA CONSULTORIA TÉCNICA JURÍDICA DO PODER LEGISLATIVO](#titulo-xxi---da-consultoria-técnica-jurídica-do-poder-legislativo) — Arts. 368 e 369
+- [TÍTULO XXII - DA PARTICIPAÇÃO DA SOCIEDADE CIVIL](#titulo-xxii---da-participação-da-sociedade-civil)
+- [Capítulo I - Da Iniciativa Popular de Lei](#capitulo-i---da-iniciativa-popular-de-lei) — Art. 370
+- [Capítulo II - Das Petições e Representações e outras Formas de Participação](#capitulo-ii---das-petições-e-representações-e-outras-formas-de-participação) — Arts. 371 e 372
+- [TÍTULO XXIII - DO CREDENCIAMENTO DA IMPRENSA](#titulo-xxiii---do-credenciamento-da-imprensa) — Art. 373
+- [TÍTULO XXIV - DISPOSIÇÕES FINAIS](#título-xxiv---disposições-finais) — Arts. 374 e 375
 
 Regimento Interno
 
@@ -230,9 +230,9 @@ Anexo da Resolução 65/08
 
 Regimento Interno da Assembleia Legislativa do Estado de Mato Grosso do Sul
 
-## TITULO I — DISPOSIÇÕES PRELIMINARES
+## TITULO I - DISPOSIÇÕES PRELIMINARES
 
-### CAPITULO I — DA SEDE
+### CAPITULO I - DA SEDE
 
 Art. 1º A Assembleia Legislativa do Estado de Mato Grosso do Sul tem sua sede no Palácio Guaicurus, localizado no Parque dos Poderes, em Campo Grande, Capital do Estado de Mato Grosso do Sul.
 
@@ -264,9 +264,9 @@ Art. 4º No Plenário da Assembleia, durante Sessão pública, serão admitidos 
 
 Parágrafo único. O Governador do Estado, o Presidente do Tribunal de Justiça e os Desembargadores, os Secretários de Estado, o Vice-Governador, o Presidente e os Conselheiros do Tribunal de Contas, os ex-deputados, os suplentes de deputados, bem como os funcionários do Executivo e Judiciário, ou outras quaisquer autoridades ou pessoas, somente serão admitidos no recinto reservado aos deputados quando expressamente convidados pela Mesa.
 
-### CAPITULO II — DA INSTALAÇÃO DA LEGISLATURA E ELEIÇÃO DA MESA DIRETORA
+### CAPITULO II - DA INSTALAÇÃO DA LEGISLATURA E ELEIÇÃO DA MESA DIRETORA
 
-#### SEÇÃO I — DA INSTALAÇÃO DA LEGISLATURA
+#### SEÇÃO I - DA INSTALAÇÃO DA LEGISLATURA
 
 Art. 5º Às nove horas do dia primeiro de fevereiro do primeiro ano de cada Legislatura, os diplomados deputados estaduais reunir-se-ão em sessão preparatória, na sede da Assembleia, independentemente de convocação, para a solenidade de posse e eleição da Mesa que dirigirá os trabalhos nas duas sessões legislativas.
 
@@ -284,7 +284,7 @@ Art. 8º Constituída a Mesa, procederá o Presidente ao recolhimento dos diplom
 
 Art. 9º Tomado o compromisso dos deputados o Presidente declarará instalada a Legislatura e atenderá as solicitações feitas para uso da palavra “pelo Protocolo”, após o que encerrará a Sessão, convocando outra, para o mesmo dia, especialmente para a eleição da mesa.
 
-#### SEÇÃO II — DA ELEIÇÃO DA MESA DIRETORA
+#### SEÇÃO II - DA ELEIÇÃO DA MESA DIRETORA
 
 Art. 10. A eleição dos membros da Mesa Diretora será feita por votação nominal e aberta, considerando-se eleita a chapa ou o candidato individual ou avulso que obtiver a maioria absoluta dos votos, e que cumprirá mandato de 02 (dois) anos, permitida a reeleição.
 
@@ -350,7 +350,7 @@ Art. 17. Proclamada e empossada a Mesa Diretora, pelo Presidente, que atenderá,
 
 Art. 18. O ocupante de cargo da Mesa Diretora deixará o exercício do cargo nos casos previstos neste Regimento e, ao final de seu mandato, após a eleição de seu substituto.
 
-### CAPITULO III — DA INSTALAÇÃO DA SESSÃO LEGISLATIVA
+### CAPITULO III - DA INSTALAÇÃO DA SESSÃO LEGISLATIVA
 
 Art. 19. A instalação da 1ª Sessão Legislativa da Legislatura, que terá cunho solene e festivo, realizar-se-á às nove horas do dia 15 de fevereiro.
 
@@ -392,11 +392,11 @@ II - solicitará às lideranças partidárias a indicação dos nomes dos deputa
 
 Parágrafo único. É facultado ao Presidente solicitar que as Bancadas indiquem os nomes a que se referem os incisos I e II deste artigo na primeira Sessão Ordinária da Assembleia.
 
-## TITULO II — DOS ÓRGÃOS DA ASSEMBLEIA
+## TITULO II - DOS ÓRGÃOS DA ASSEMBLEIA
 
-### CAPITULO I — DA MESA DIRETORA
+### CAPITULO I - DA MESA DIRETORA
 
-#### SEÇÃO I — DISPOSIÇÕES PRELIMINARES
+#### SEÇÃO I - DISPOSIÇÕES PRELIMINARES
 
 Art. 25. À Mesa Diretora da Assembleia composta pela Presidência e Secretaria, compete a direção dos trabalhos legislativos e dos serviços administrativos, constituindo-se, a primeira, do Presidente, e a segunda, de dois secretários.
 
@@ -430,7 +430,7 @@ Parágrafo único. Ocorrendo a vacância de qualquer cargo da Mesa Diretora, a e
 
 Art. 29. É defeso ao membro da Mesa falar de sua cadeira sobre assunto alheio às incumbências do cargo; sempre que pretender propor ou discutir matéria, ou participar de debates, o membro da Mesa deixará o assento que nela ocupar, utilizando-se de microfone.
 
-#### SEÇÃO II — DA COMPETÊNCIA
+#### SEÇÃO II - DA COMPETÊNCIA
 
 Art. 30. À Mesa Diretora compete, além das atribuições outras consignadas neste Regimento, ou dele implicitamente resultante, a direção dos trabalhos legislativos e dos serviços administrativos da Assembleia e especialmente:
 
@@ -490,7 +490,7 @@ Art. 31. Os membros da Mesa, sempre que necessário, reunir-se-ão em comissão,
 
 Parágrafo único. Os atos da competência da Mesa, referidos no artigo 30, I, "d", e II, "i", dependem, para validade, da assinatura dos mesários titulares, salvo se a omissão for de um apenas dos secretários, caso em que poderá firmar o ato um Secretário ad-hoc.
 
-#### SEÇÃO III — DA PRESIDÊNCIA
+#### SEÇÃO III - DA PRESIDÊNCIA
 
 Art. 32. O Presidente é o representante da Assembleia quando ela houver de se enunciar coletivamente, o dirigente dos seus trabalhos e o fiscal da ordem, tudo na conformidade deste Regimento.
 
@@ -638,13 +638,13 @@ XV- designar membro da Mesa Diretora ou qualquer Deputado para, em conjunto ou i
 
 § 4º Em qualquer momento o Presidente poderá, da sua cadeira, fazer ao Plenário comunicação de interesse público ou da Casa.
 
-#### SEÇÃO IV — DA VICE-PRESIDÊNCIA
+#### SEÇÃO IV - DA VICE-PRESIDÊNCIA
 
 Art. 34. O primeiro Vice-Presidente é o substituto imediato do Presidente, enquanto o segundo Vice-Presidente o substitui e a este o terceiro Vice-Presidente.
 
 Parágrafo único. Sempre que tiver que se ausentar da Capital do Estado, por mais de quinze dias, o Presidente passará o exercício ao 1º Vice-Presidente, ou, na ausência deste, ao 2º ou 3º Vice-Presidentes ou substituto, pela ordem.
 
-#### SEÇÃO V — DA SECRETARIA
+#### SEÇÃO V - DA SECRETARIA
 
 Art. 35. Os titulares das secretarias terão as designações de 1º e 2º Secretário.
 
@@ -708,9 +708,9 @@ VIII - proceder, juntamente com o Presidente, a emissão de cheques e movimenta�
 
 Art. 38. Na ocorrência ou falta de Secretários durante as sessões poderão exercer suas funções secretários ad-hoc, designados pelo Presidente.
 
-### CAPITULO II — DAS COMISSÕES
+### CAPITULO II - DAS COMISSÕES
 
-#### SEÇÃO I — DISPOSIÇÕES GERAIS
+#### SEÇÃO I - DISPOSIÇÕES GERAIS
 
 Art. 39. As comissões da Assembleia são:
 
@@ -752,9 +752,9 @@ Art. 41. As comissões contarão, para desempenho das suas atribuições, com as
 
 Parágrafo único. Quando julgar necessário ao desenvolvimento dos trabalhos da Comissão, seu Presidente poderá solicitar ao Presidente da Assembleia, ex-oficio ou a pedido de qualquer membro, a contratação de técnicos especializados.
 
-#### SEÇÃO II — DAS COMISSÕES PERMANENTES
+#### SEÇÃO II - DAS COMISSÕES PERMANENTES
 
-##### SUBSEÇÃO I — Das Disposições Preliminares
+##### SUBSEÇÃO I - Das Disposições Preliminares
 
 Art. 42. As comissões permanentes, em número de 14, tem as seguintes denominações:
 
@@ -812,7 +812,7 @@ XVII - Ciência, Tecnologia e Inovação. ([Acrescentado pela Resolução nº 08
 
 XVIII - Comissão de Defesa dos Direitos da Criança, Adolescente e Juventude. ([Acrescentado pela Resolução nº 03/25, de 23/04/2025 - D.O. ALEMS 24/04/25, pág. 03](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=R8RaS4HOGybPmybAsuQsbA==))
 
-##### SUBSEÇÃO II — Da Composição e Instalação
+##### SUBSEÇÃO II - Da Composição e Instalação
 
 Art. 43. Assegurar-se-á nas Comissões Permanentes e Temporárias, tanto quanto possível, a representação proporcional dos partidos ou blocos parlamentares, a qual se define pelo número de lugares reservados ao Partido em cada comissão, nos termos deste Regimento.
 
@@ -838,7 +838,7 @@ Art. 45. Estabelecida a representação numérica dos partidos e dos blocos parl
 
 Parágrafo único. Juntamente com a composição nominal das Comissões, o Presidente mandará publicar, no "Diário do Legislativo', a convocação destas para, em três dias, elegerem os respectivos Presidentes e Vice-Presidentes.
 
-##### SUBSEÇÃO III — DAS MATÉRIAS E ATIVIDADES DE COMPETÊNCIA DAS COMISSÕES
+##### SUBSEÇÃO III - DAS MATÉRIAS E ATIVIDADES DE COMPETÊNCIA DAS COMISSÕES
 
 Art. 46. Cada comissão permanente, integrada por cinco titulares e igual número de suplentes atuará, com competência específica, nos assuntos que envolvam:
 
@@ -1258,7 +1258,7 @@ d) Demais assuntos relacionados à proteção do direito das crianças, adolesce
 
 § 5º Entende-se por classificação de proposição, a via escolhida pelo autor, para encaminhar seu projeto, dentre os incisos a que se refere o art. 160 deste Regimento.
 
-#### SEÇÃO III — DAS COMISSÕES TEMPORÁRIAS
+#### SEÇÃO III - DAS COMISSÕES TEMPORÁRIAS
 
 Art. 47. As Comissões Temporárias são:
 
@@ -1270,17 +1270,17 @@ III - de inquérito.
 
 Parágrafo único. As Comissões Temporárias, observado o disposto nos arts. 43 e 44, compor-se-ão do número de membros que for previsto no ato ou requerimento de sua constituição, designados por indicação dos Líderes.
 
-##### SUBSEÇÃO I — Das Comissões de Representação
+##### SUBSEÇÃO I - Das Comissões de Representação
 
 Art. 48. As Comissões de Representação têm por finalidade tratar de assunto previamente determinado, em nome do Parlamento, e serão constituídas pela Mesa Diretora ou mediante requerimento subscrito, no mínimo, por oito deputados, encerrando-se após apresentação de relatório em Plenário.
 
-##### SUBSEÇÃO II — Das Comissões Especiais
+##### SUBSEÇÃO II - Das Comissões Especiais
 
 Art. 49. As Comissões Especiais serão constituídas para dar parecer sobre proposta de emenda à Constituição e projetos de código, lei orgânica, divisão territorial, estatutos e consolidações, casos em que sua organização e funcionamento obedecerão às normas fixadas no capítulo I do titulo XIV.
 
 Parágrafo único. Caberá à Comissão Especial o exame do mérito da proposição principal, das emendas que lhe forem apresentadas, e respectiva redação final.
 
-##### SUBSEÇÃO III — Das Comissões Parlamentares de Inquérito
+##### SUBSEÇÃO III - Das Comissões Parlamentares de Inquérito
 
 Art. 50. A Assembleia Legislativa, a requerimento de um terço de seus membros, instituirá Comissão Parlamentar de Inquérito para apuração de fato determinado e por prazo certo, a qual terá poderes de investigação próprios das autoridades judiciais, além de outros previstos na Constituição, em Lei e neste Regimento.
 
@@ -1338,7 +1338,7 @@ V - à Comissão de Acompanhamento da Execução Orçamentária e ao Tribunal de
 
 Parágrafo único. A remessa será feita pelo Presidente da Comissão Parlamentar de Inquérito, no prazo de cinco dias, arquivando-se, nos autos, a cópia dos ofícios de encaminhamento.
 
-#### SEÇÃO IV — DA PRESIDÊNCIA
+#### SEÇÃO IV - DA PRESIDÊNCIA
 
 Art. 53. As comissões terão um Presidente e um vice-presidente eleitos por seus pares, dentre os membros titulares, em escrutínio aberto e por maioria simples.
 
@@ -1398,7 +1398,7 @@ Parágrafo único. O Presidente poderá funcionar como Relator e terá voto nas 
 
 Art. 56. Os Presidentes das Comissões Permanentes reunir-se-ão com os Líderes sempre que isso lhes pareça conveniente, ou por convocação do Presidente da Assembleia, sob a Presidência deste, para o exame e assentamento de providências relativas à eficiência do trabalho legislativo.
 
-#### SEÇÃO V — DOS IMPEDIMENTOS E AUSÊNCIAS
+#### SEÇÃO V - DOS IMPEDIMENTOS E AUSÊNCIAS
 
 Art. 57. Nenhum Deputado poderá presidir reunião de Comissão permanente ou especial, quando se debater ou votar matéria da qual seja Autor ou Relator.
 
@@ -1414,7 +1414,7 @@ Art. 58. Sempre que um membro de Comissão não puder comparecer às reuniões, 
 
 § 3º Em caso de matéria urgente ou relevante, caberá ao Líder, mediante a solicitação do Presidente de Comissão, indicar outro membro de sua Bancada para substituir, em reunião, o membro ausente.
 
-#### SEÇÃO VI — DAS VAGAS
+#### SEÇÃO VI - DAS VAGAS
 
 Art. 59. A vaga em comissão verificar-se-á em virtude de renúncia, falecimento, perda do lugar ou investidura em cargo do Poder Executivo.
 
@@ -1430,7 +1430,7 @@ Art. 59. A vaga em comissão verificar-se-á em virtude de renúncia, faleciment
 
 § 6º O Deputado que mudar de partido será substituído, por indicação do Líder a que pertencer a representação na comissão.
 
-#### SEÇÃO VII — DAS REUNIÕES
+#### SEÇÃO VII - DAS REUNIÕES
 
 Art. 60. As comissões reunir-se-ão na sede da Assembleia, em dia e hora pré-fixados pelos Presidentes, salvo as convocações de Comissão Parlamentar de Inquérito para reuniões em local diverso.
 
@@ -1508,7 +1508,7 @@ III - de sete dias, nas matérias em regime de tramitação ordinária.
 
 § 5º O relator do projeto será o das emendas a estas oferecidas em Plenário, salvo ausência ou recusa ou, ainda, se for ele o autor de emenda.
 
-#### SEÇÃO VIII — DA VISTA
+#### SEÇÃO VIII - DA VISTA
 
 Art. 66. A vista de matéria em debate nas comissões permanentes obedecerá aos seguintes prazos:
 
@@ -1520,7 +1520,7 @@ III - quatro dias, para matérias em regime de tramitação ordinária.
 
 Parágrafo único. A vista será conjunta na secretaria da comissão, e a concessão de um pedido, em cada turno de votação, inviabiliza outros.
 
-#### SEÇÃO IX — DA ADMINISTRAÇÃO E APRECIAÇÃO DAS MATÉRIAS
+#### SEÇÃO IX - DA ADMINISTRAÇÃO E APRECIAÇÃO DAS MATÉRIAS
 
 Art. 67. A nenhuma comissão cabe manifestar-se sobre o que não for de sua atribuição específica.
 
@@ -1582,7 +1582,7 @@ XVIII - o membro de comissão pode levantar questão de ordem sobre a ação ou 
 
 Art. 68. Encerrada a apreciação, pelas comissões, de matéria sujeita à deliberação do Plenário, a proposição será enviada à Mesa e aguardará inclusão na Ordem do Dia.
 
-#### SEÇÃO X — DA FISCALIZAÇÃO E CONTROLE
+#### SEÇÃO X - DA FISCALIZAÇÃO E CONTROLE
 
 Art. 69. Constituem atos ou fatos sujeitos à fiscalização e controle da Assembleia Legislativa e de suas comissões:
 
@@ -1620,7 +1620,7 @@ II - as informações solicitadas por Deputado serão lidas a este Deputado pelo
 
 III - cumpridas estas formalidades, serão fechadas em invólucro datado e lacrado, onde se consignará a data em que poderá ser aberto e que, rubricado por dois deputados, será arquivado.
 
-#### SEÇÃO XI — DA DISTRIBUIÇÃO DE MATÉRIA
+#### SEÇÃO XI - DA DISTRIBUIÇÃO DE MATÉRIA
 
 Art. 71. A distribuição de matéria às comissões será feita pelo Presidente da Assembleia.
 
@@ -1630,7 +1630,7 @@ Art. 71. A distribuição de matéria às comissões será feita pelo Presidente
 
 § 3º Nas comissões, a proposição será distribuída a um dos seus membros para relatá-la, obedecidos os princípios da alternância e da igualdade numérica dos projetos, de acordo com a sua origem e matéria de que tratam.
 
-#### SEÇÃO XII — DOS PARECERES
+#### SEÇÃO XII - DOS PARECERES
 
 Art. 72. Parecer é o pronunciamento da comissão sobre matéria sujeita ao seu estudo, emitido com observância das normas fixadas nos parágrafos seguintes.
 
@@ -1692,7 +1692,7 @@ Art. 74. Os membros das comissões emitirão seu juízo mediante voto.
 
 § 4º O voto será com "restrições", quando a divergência com o parecer não for fundamental.
 
-#### SEÇÃO XIII — DA SECRETARIA E DAS ATAS
+#### SEÇÃO XIII - DA SECRETARIA E DAS ATAS
 
 Art. 75. Cada comissão terá uma secretaria incumbida dos serviços de apoio administrativo, compreendendo:
 
@@ -1730,9 +1730,9 @@ IV - relação das matérias distribuídas aos relatores e relatores-Substitutos
 
 V - registro das proposições apreciadas e das respectivas conclusões.
 
-## TITULO III — DOS DEPUTADOS
+## TITULO III - DOS DEPUTADOS
 
-### CAPITULO I — DISPOSIÇÕES PRELIMINARES
+### CAPITULO I - DISPOSIÇÕES PRELIMINARES
 
 Art. 77. Assegura-se ao Deputado, no exercício do mandato, inviolabilidade civil e penal, por suas opiniões, palavras e votos, nos termos do disposto no art. 57 da Constituição Estadual.
 
@@ -1750,7 +1750,7 @@ Art. 77. Assegura-se ao Deputado, no exercício do mandato, inviolabilidade civi
 
 § 7º O Deputado deverá fazer declaração pública de seus bens, no ato da posse e no término do mandato e, somente após o atendimento dessa disposição, poderá perceber subsídio ou entrar no exercício de outra Legislatura.
 
-### CAPITULO II — DA POSSE
+### CAPITULO II - DA POSSE
 
 Art. 78. A posse do Deputado que não tenha se investido no cargo, na sessão especial de que trata o art. 5º, será ato público que se realizará perante a Assembleia, durante a Sessão Legislativa ordinária, ou Sessão extraordinária, inclusive em reunião preparatória, devendo precedê-la a entrega do diploma respectivo à Mesa. Estando a Assembleia em recesso, a Mesa Diretora tomará o compromisso e deferirá a posse no Gabinete da Presidência.
 
@@ -1768,7 +1768,7 @@ Art. 78. A posse do Deputado que não tenha se investido no cargo, na Sessão es
 
 § 6º Não se realizará posse de Deputado durante os períodos de recesso da Assembleia Legislativa, exceto em caso de convocação extraordinária. ([Acrescentado pela Resolução nº 26/11, de 06/07/2011 - D.O. 07/07/11, pág. 59)](https://www.spdo.ms.gov.br/diariodoe/Index/Download/DO7984_07_07_2011).
 
-### CAPITULO III — DO EXERCÍCIO DO MANDATO
+### CAPITULO III - DO EXERCÍCIO DO MANDATO
 
 Art. 79. Empossado, o Deputado deve apresentar-se no edifício da Assembleia à hora regimental, para tomar parte nas sessões plenárias, bem como à hora da reunião de Comissão de que seja membro, para participar dos respectivos trabalhos, cabendo-lhe:
 
@@ -1808,7 +1808,7 @@ III - os demais parlamentares empossados sem direito à preferência. ([Acrescen
 
 Art. 79-D. Habilitando-se mais de 1 (um) Deputado nos critérios estabelecidos no art. 79-C desta Resolução, a prerrogativa de escolha dar-se-á por sorteio. ([Acrescentado pela Resolução nº 68/22, de 06/12/2022 - D.O. ALEMS 06/12/22, pág. 3)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=eKatrocaAdi3wImvMQeKnmlykmEcQ==).
 
-### CAPITULO IV — DAS VAGAS
+### CAPITULO IV - DAS VAGAS
 
 Art. 80. Ocorrerão vagas na Assembleia Legislativa:
 
@@ -1822,7 +1822,7 @@ IV - por licença concedida nos termos do art. 81, inciso IV.
 
 Parágrafo único. A renúncia constituirá ato acabado e definitivo desde que manifestada em Plenário ou comunicada, por escrito, à Mesa Diretora da Assembleia, convocando-se o suplente, em caso de vacância que a autorize, imediatamente após à abertura da vaga.
 
-### CAPITULO V — DAS LICENÇAS
+### CAPITULO V - DAS LICENÇAS
 
 Art. 81. O Deputado poderá obter licença nos seguintes casos:
 
@@ -1866,9 +1866,9 @@ Art. 86. O Deputado licenciado para exercer função de Ministro ou de Secretár
 
 Art. 87. Para afastar-se do território nacional, o Deputado deverá dar prévia ciência à Assembleia.
 
-### CAPITULO VI — DA PERDA E DA SUSPENSÃO DO EXERCÍCIO DO MANDATO
+### CAPITULO VI - DA PERDA E DA SUSPENSÃO DO EXERCÍCIO DO MANDATO
 
-#### SEÇÃO I — DA PERDA DO MANDATO
+#### SEÇÃO I - DA PERDA DO MANDATO
 
 Art. 88. Perderá o mandato o Deputado:
 
@@ -1912,7 +1912,7 @@ IX - concluída a tramitação na Comissão de Ética o processo será encaminha
 
 Parágrafo único. A perda do mandato nos casos previstos nos incisos I, II e III do artigo anterior será decidida por voto aberto da maioria absoluta dos membros da Assembleia.
 
-#### SEÇÃO II — DA SUSPENSÃO DO EXERCÍCIO DO MANDATO
+#### SEÇÃO II - DA SUSPENSÃO DO EXERCÍCIO DO MANDATO
 
 Art. 91. Suspende-se o exercício do mandato:
 
@@ -1924,7 +1924,7 @@ II - por condenação criminal transitada em julgado, que impuser pena de priva�
 
 § 2º O projeto de Resolução a que alude o parágrafo anterior, de iniciativa da Mesa ou de qualquer partido representado, deverá ser aprovada por maioria absoluta.
 
-### CAPITULO VII — DA REMUNERAÇÃO
+### CAPITULO VII - DA REMUNERAÇÃO
 
 Art. 92. Ao subsídio do Deputado, fixado em parcela única, serão agregadas cotas de serviço, verba de representação e auxílio, na forma de Ato editado pela Mesa Diretora, com base em idêntico procedimento adotado pela Câmara Federal a favor de seus membros e em limite que não exceda àquele previsto no art. 27, § 2º da Constituição Federal.
 
@@ -1954,7 +1954,7 @@ II - O Deputado licenciado para tratar de interesse particular.
 
 Art. 95. O subsídio dos deputados e os valores a ele agregados estão sujeitos à tributação do imposto de renda na fonte.
 
-### CAPITULO VIII — DO LÍDER
+### CAPITULO VIII - DO LÍDER
 
 Art. 96. Líder é o porta voz de uma representação partidária ou Bloco Parlamentar e o seu intermediário autorizado perante os órgãos da Assembleia.
 
@@ -1984,7 +1984,7 @@ Art. 99. É concedido ao Líder, em qualquer momento da Sessão, salvo quando ho
 
 § 5º Nas sessões extraordinárias o exercício das prerrogativas deste artigo só será deferido pelo Presidente da Assembleia, para comunicação urgente.
 
-### CAPITULO IX — DOS BLOCOS PARLAMENTARES, DA MAIORIA
+### CAPITULO IX - DOS BLOCOS PARLAMENTARES, DA MAIORIA
 
 E DA MINORIA E DAS FRENTES PARLAMENTARES
 
@@ -2012,7 +2012,7 @@ Art. 101. As Frentes Parlamentares poderão se instituídas por deliberação de
 
 Parágrafo único. Uma vez instituída e comunicada à Mesa Diretora a Frente Parlamentar terá a sua existência formal confirmada por Ato da Mesa.
 
-### CAPITULO X — DO NOME PARLAMENTAR
+### CAPITULO X - DO NOME PARLAMENTAR
 
 Art. 102. Ao assumir o exercício do mandato, o Deputado, ou Suplente convocado escolherá o nome parlamentar com que deverá figurar nas publicações e registros da Casa, seguido da sigla partidária a que pertence, entre parênteses, e quando não pertencer a nenhum partido utilizar-se-á a expressão “sem partido”, entre parênteses.
 
@@ -2026,9 +2026,9 @@ Art. 102. Ao assumir o exercício do mandato, o Deputado, ou Suplente convocado 
 
 § 4º Ao Deputado é lícito, a qualquer tempo, mudar o seu nome parlamentar, para o que dirigirá comunicação escrita à Mesa, vigorando a alteração a partir daí.
 
-## TITULO IV — DAS SESSÕES
+## TITULO IV - DAS SESSÕES
 
-### CAPITULO I — DISPOSIÇÕES PRELIMINARES
+### CAPITULO I - DISPOSIÇÕES PRELIMINARES
 
 Art. 103. As sessões são:
 
@@ -2138,7 +2138,7 @@ III - as sessões destinadas à entrega de outras comendas e/ou honrarias instit
 
 Art. 113. A Assembleia, por decisão do Plenário sob qualquer número de presentes, poderá considerar-se em Sessão permanente pelo tempo que julgar necessário, quando ocorrerem, no território nacional, no do Estado ou da Capital, fatos ou situações que, pela sua natureza ou gravidade, recomendem a sua vigilância contínua.
 
-### CAPITULO II — DA SUSPENSÃO E DO LEVANTAMENTO DAS SESSÕES
+### CAPITULO II - DA SUSPENSÃO E DO LEVANTAMENTO DAS SESSÕES
 
 Art. 114. Suspensão é a interrupção momentânea, por tempo certo, dos trabalhos da Sessão, que serão reiniciados, tão logo superada a causa que deu origem à paralisação.
 
@@ -2174,7 +2174,7 @@ Art. 117. A Assembleia poderá destinar as duas primeiras partes da Sessão a co
 
 Art. 117. A Assembleia Legislativa poderá destinar as duas primeiras partes da Sessão a comemorações, ou interromper os seus trabalhos em qualquer fase da Sessão, exceto durante a Ordem do Dia, para recepção a altas personalidades, desde que assim resolva o Plenário, por proposta de um Deputado. ([Alteração feita de acordo com a Resolução nº 26/16, de 23/06/2016 - D.O. ALEMS 24/06/16, pág. 03)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=0ARqdhbLjJk=).
 
-### CAPITULO III — DA ORDEM DOS TRABALHOS
+### CAPITULO III - DA ORDEM DOS TRABALHOS
 
 Art. 118. Durante a Sessão só os deputados poderão permanecer no Plenário, bem como os funcionários necessários à realização dos trabalhos legislativos e, quando for o caso, os assessores de Deputado, obedecendo-se, sempre, a ordem e a solenidade, vedada conversação que perturbe os trabalhos.
 
@@ -2226,7 +2226,7 @@ Art. 124. O Presidente poderá, de ofício, pelo tempo necessário, no momento q
 
 Art. 125. Sempre que algum Deputado pretender consignar a presença de personalidade pública, ou ilustre, nas galerias ou no recinto da Assembleia, comunicará reservadamente ao Presidente, que transmitirá ao Plenário, inscrevendo o fato nos anais.
 
-### CAPITULO IV — DOS ORADORES
+### CAPITULO IV - DOS ORADORES
 
 Art. 126. A nenhum Deputado será permitido falar sem pedir a palavra e sem que se lhe conceda.
 
@@ -2284,9 +2284,9 @@ Art. 133. O orador poderá, se quiser, assegurar preferência no debate de maté
 
 § 2º Na hipótese de todos os deputados que se habilitarem a discutir determinada proposição o fizerem a favor, ou contra a mesma, a palavra ser-lhes-á concedida pela ordem de inscrição ou de acordo com os vários incisos do art. 122.
 
-### CAPITULO V — DAS SESSÕES ORDINÁRIAS
+### CAPITULO V - DAS SESSÕES ORDINÁRIAS
 
-#### SEÇÃO I — DO PEQUENO EXPEDIENTE
+#### SEÇÃO I - DO PEQUENO EXPEDIENTE
 
 Art. 134 À hora do início das sessões, os membros da Mesa Diretora e os deputados ocuparão seus lugares, para o início do Pequeno Expediente, que terá a duração máxima de sessenta minutos. ([Alteração feita de acordo com a Resolução nº 86/10, de 08/12/10 - D.O. 09/12/10, pág. 63)](https://www.spdo.ms.gov.br/diariodoe/Index/Download/DO7843_09_12_2010).
 
@@ -2350,7 +2350,7 @@ Art. 137. O 1º Secretário, em seguida à leitura da ata, dará conta das propo
 
 § 7° O Pequeno Expediente terminará improrrogavelmente, às dez horas, após esse horário, as proposições poderão ser colocadas sobre a mesa. ([Acrescentada pela Resolução nº 90/17, de 26/10/17 - D.O. ALEMS 27/10/17, pág. 4)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=D8UPtrocaAdiAUSr9A=).
 
-#### SEÇÃO II — DO GRANDE EXPEDIENTE
+#### SEÇÃO II - DO GRANDE EXPEDIENTE
 
 Art.138. Esgotada a matéria do Pequeno Expediente, ou o tempo que lhe é reservado, passar-se-á ao Grande Expediente, que se destina aos oradores inscritos para versar assunto de sua livre escolha, cabendo a cada um trinta minutos, no máximo, na sua vez.
 
@@ -2394,7 +2394,7 @@ Art. 141. O requerimento de que trata o art. 140, poderá, excepcionalmente, ser
 
 Parágrafo único. O caráter excepcional da solicitação deverá ser justificado pelo Deputado autor do pedido. ([Revogado pela Resolução nº 26/16, de 23/06/2016 - D.O. ALEMS 24/06/16, pág. 3)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=0ARqdhbLjJk=).
 
-#### SEÇÃO III — DA ORDEM DO DIA
+#### SEÇÃO III - DA ORDEM DO DIA
 
 Art. 142. Da matéria constante da Ordem do Dia de Sessão ordinária, independentemente de sua publicação no “Diário do Legislativo”, o Deputado terá conhecimento, vinte e quatro horas antes de declarada sua instalação.
 
@@ -2466,7 +2466,7 @@ IV - a conclusão dos pareceres;
 
 V - outras indicações que se fizerem necessárias.
 
-#### SEÇÃO IV — DA EXPLICAÇÃO PESSOAL
+#### SEÇÃO IV - DA EXPLICAÇÃO PESSOAL
 
 Art. 150. Esgotada a Ordem do Dia, seguir-se-á a Explicação Pessoal, pelo tempo restante da Sessão.
 
@@ -2480,7 +2480,7 @@ Art. 150. Esgotada a Ordem do Dia, seguir-se-á a Explicação Pessoal, pelo tem
 
 § 5º Não havendo orador inscrito, o Presidente, depois de anunciar a Ordem do Dia da Sessão seguinte, e de atender o disposto no art. 33, I, "s", dará por terminada a Sessão.
 
-#### SEÇÃO V — DAS ATAS E DO DIÁRIO DO LEGISLATIVO
+#### SEÇÃO V - DAS ATAS E DO DIÁRIO DO LEGISLATIVO
 
 Art. 151. De cada Sessão da Assembleia lavrar-se-á ata resumida contendo os nomes dos deputados presentes e dos ausentes, bem assim uma exposição sucinta dos trabalhos.
 
@@ -2534,13 +2534,13 @@ Art. 158. À Mesa do Poder Legislativo incumbe dirigir o "Diário do Legislativo
 
 § 4º A Comissão de Publicação terá um diretor, um redator e um revisor, eleitos em seguida à posse de seus membros, cabendo ao Diretor da Comissão exercer as prerrogativas de presidente.
 
-### CAPITULO VI — DAS SESSÕES SECRETAS
+### CAPITULO VI - DAS SESSÕES SECRETAS
 
 ([S U P R I M I D O - De acordo com a Resolução 17/16, de 09/06/2016 - D.O. ALEMS 10/06/16, pág. 06).](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=ALPAG0UMGVM=)
 
-## TITULO V — DAS PROPOSIÇÕES
+## TITULO V - DAS PROPOSIÇÕES
 
-### CAPITULO I — DISPOSIÇÕES GERAIS
+### CAPITULO I - DISPOSIÇÕES GERAIS
 
 Art. 160. Proposição é toda matéria sujeita à deliberação da Assembleia, a saber:
 
@@ -2632,7 +2632,7 @@ IV - de iniciativa de outro Poder ou do Tribunal de Contas, do Ministério Públ
 
 Art. 165. Os Projetos de Lei e de Emenda à Constituição terão duas discussões e votações e, as demais proposições, apenas uma única discussão e votação, salvo disposição regimental em contrário.
 
-### CAPITULO II — DOS PROJETOS
+### CAPITULO II - DOS PROJETOS
 
 Art. 166. Destinam-se os projetos:
 
@@ -2706,9 +2706,9 @@ Art. 169. A matéria constante de proposição rejeitada, somente poderá consti
 
 Art. 170. Os projetos que forem apresentados contendo referências a Lei, artigo de Lei, Decreto ou Regulamento, contrato ou concessão, ou qualquer ato administrativo e não se façam acompanhar de sua transcrição, ou, por qualquer modo, se demonstrem incompletos e sem esclarecimentos, só serão enviados às comissões, cientes os autores do retardamento, depois de completada sua instrução.
 
-### CAPITULO III — DOS REQUERIMENTOS
+### CAPITULO III - DOS REQUERIMENTOS
 
-#### SEÇÃO I — SUJEITOS A DESPACHO DO PRESIDENTE
+#### SEÇÃO I - SUJEITOS A DESPACHO DO PRESIDENTE
 
 Art. 171. Serão verbais, e imediatamente despachados pelo Presidente, os requerimentos que solicitem:
 
@@ -2758,7 +2758,7 @@ b) que solicite juntada ou desentranhamento de documento;
 
 c) pedido de informações que, dirigido a autoridade, tenha sido indeferido, total ou parcialmente, ou encaminhado à Comissão de Constituição, Justiça e Redação para parecer.
 
-#### SEÇÃO II — SUJEITOS A DELIBERAÇÃO DO PLENÁRIO
+#### SEÇÃO II - SUJEITOS A DELIBERAÇÃO DO PLENÁRIO
 
 Art. 173. Serão escritos e dependerão de deliberação do Plenário os requerimentos não especificados neste Regimento e os que solicitem:
 
@@ -2812,7 +2812,7 @@ XX - de informações.
 
 § 5º Os requerimentos a que se refere o inciso XX, serão discutidos e votados na Sessão ordinária seguinte àquela em que forem apresentados, admitido o pedido de vista e observado o que dispõe o art. 171 deste Regimento.
 
-#### SEÇÃO III — DOS REQUERIMENTOS DE INFORMAÇÕES A SECRETÁRIO DE ESTADO
+#### SEÇÃO III - DOS REQUERIMENTOS DE INFORMAÇÕES A SECRETÁRIO DE ESTADO
 
 Art. 174. Os pedidos escritos de informação a Secretário de Estado, serão encaminhados pelo 1º Secretário da Assembleia, observadas as seguintes regras:
 
@@ -2836,7 +2836,7 @@ Art. 175. No caso de entender o Presidente, que determinado requerimento de info
 
 § 2º Decorrido o prazo fixado no parágrafo anterior, poderá o autor do requerimento solicitar a sua inclusão na Ordem do Dia, cabendo ao Plenário decidir a respeito, após a sua discussão.
 
-### CAPITULO IV — DAS INDICAÇÕES
+### CAPITULO IV - DAS INDICAÇÕES
 
 Art. 176. Indicação é a proposição em que o Deputado sugere:
 
@@ -2854,7 +2854,7 @@ Art. 178. A indicação, conquanto aprovada pela Assembleia representa manifesta
 
 Parágrafo único. Terão, identicamente, seus nomes declinados na correspondência, e como tais, os autores de emendas incorporadas à proposição.
 
-### CAPITULO V — DAS EMENDAS
+### CAPITULO V - DAS EMENDAS
 
 Art. 179. Emenda é a proposição apresentada como acessória de outra.
 
@@ -2900,7 +2900,7 @@ III - por um terço dos membros da Assembleia ou pela totalidade dos líderes de
 
 Art. 183. As emendas apresentadas em Plenário serão anexadas, por ordem de entrada, à proposição principal, cujo pareceres das comissões que regimentalmente devam se manifestar, deverá ser oferecido em Plenário, sempre que possível pelo mesmo Relator da matéria principal, assegurado o direito de vista.
 
-### CAPITULO VI — DA PREJUDICIALIDADE
+### CAPITULO VI - DA PREJUDICIALIDADE
 
 Art. 184. Consideram-se prejudicados:
 
@@ -2930,9 +2930,9 @@ Art. 185. A declaração de prejudicialidade será feita perante o Plenário ou 
 
 § 3º Quando na Comissão de Constituição, Justiça e Redação, o relator se pronunciar pela inconstitucionalidade ou injuridicidade da proposição, é permitida sua retirada, antes de proferido o parecer definitivo, mediante requerimento ao Presidente da comissão ou da Mesa Diretora que, o deferindo, determinará o devido encaminhamento para ser arquivado.
 
-## TÍTULO VI — DA TRAMITAÇÃO
+## TÍTULO VI - DA TRAMITAÇÃO
 
-### CAPITULO I — DA DISTRIBUIÇÃO DAS PROPOSIÇÕES
+### CAPITULO I - DA DISTRIBUIÇÃO DAS PROPOSIÇÕES
 
 Art. 186. A distribuição de matéria às Comissões será feita por despacho do Presidente, cumprida a pauta e observadas as seguintes normas:
 
@@ -2954,9 +2954,9 @@ V - nenhuma proposição será distribuída a mais do que três comissões de m�
 
 Art. 187. Se a comissão a que for distribuída uma proposição se julgar incompetente para apreciar a matéria, ou se, no prazo para a apresentação de emendas referido no art. 182, qualquer Deputado ou Comissão suscitar conflito de competência em relação a ela, será este dirimido pelo Presidente da Assembleia, dentro em duas sessões, ou de imediato se a matéria for urgente.
 
-## TITULO VII — DO PROCESSO DE APRECIAÇÃO DAS PROPOSIÇÕES LEGISLATIVAS
+## TITULO VII - DO PROCESSO DE APRECIAÇÃO DAS PROPOSIÇÕES LEGISLATIVAS
 
-### CAPÍTULO I — DA PAUTA
+### CAPÍTULO I - DA PAUTA
 
 Art. 188. Todo e qualquer Projeto de Lei ou de Decreto Legislativo, depois de recebido pela Mesa e processado, será incluído em Pauta, por ordem numérica, durante três sessões ordinárias consecutivas, para conhecimento dos deputados e recebimento de emendas.
 
@@ -2982,7 +2982,7 @@ Art. 191. Os projetos em Pauta serão anunciados, diariamente, em seguida à Ord
 
 Art. 192. O projeto, enquanto em Pauta, organizada na forma prevista nos arts. 32, II, "a" e 188, será publicado no "Diário do Legislativo" com seu número, ementa, nome do autor e fase de tramitação em que se encontra.
 
-### CAPITULO II — DA APRECIAÇÃO DAS PROPOSIÇÕES LEGISLATIVAS
+### CAPITULO II - DA APRECIAÇÃO DAS PROPOSIÇÕES LEGISLATIVAS
 
 Art. 193. A apreciação, pelo Plenário, das proposições legislativas, inicia-se pela discussão e se completa com a votação.
 
@@ -3014,7 +3014,7 @@ Art. 196. Com os pareceres das comissões técnicas, vai o projeto à Ordem do D
 
 Art. 197. Reconhecidas, pelo Plenário, a constitucionalidade e a juridicidade ou a adequação financeira e orçamentária da proposição, não poderão estas preliminares ser novamente arguidas em contrário.
 
-### CAPITULO III — DOS TURNOS A QUE ESTÃO SUJEITAS AS PROPOSIÇÕES
+### CAPITULO III - DOS TURNOS A QUE ESTÃO SUJEITAS AS PROPOSIÇÕES
 
 Art. 198. As proposições em tramitação na Assembleia são subordinadas a dois turnos de discussão e votação, excetuados os casos expressos neste Regimento.
 
@@ -3024,7 +3024,7 @@ Parágrafo único. Dispensa-se a redação final no caso do projeto não haver s
 
 Art. 200. Aprovada a redação final, ou dispensada esta, o projeto passará à Secretaria, para as diligências subsequentes, devendo a Mesa, dentro do prazo de três dias, expedir o autógrafo do projeto de Lei, encaminhando-o para sanção; ou promulgá-lo quando se tratar de Resolução ou de Decreto Legislativo.
 
-### CAPITULO IV — DO INTERSTÍCIO
+### CAPITULO IV - DO INTERSTÍCIO
 
 Art. 201. Excetuada a matéria em regime de urgência, é de duas sessões o interstício entre:
 
@@ -3034,7 +3034,7 @@ II - a aprovação da matéria, sem emendas, e o início do turno seguinte.
 
 Parágrafo único. A dispensa de interstício para inclusão em Ordem do Dia de matéria apta a ser discutida e votada em segundo turno poderá ser concedida pelo Plenário, mediante acordo de liderança.
 
-### CAPITULO V — DO DESTAQUE
+### CAPITULO V - DO DESTAQUE
 
 Art. 202. O destaque de parte de qualquer proposição, bem como de emenda do grupo a que pertencer, será concedido:
 
@@ -3062,9 +3062,9 @@ IV - o projeto resultante de destaque terá a tramitação de proposição inici
 
 V - é permitida a retirada de requerimento de destaque.
 
-### CAPITULO VI — DA DISCUSSÃO
+### CAPITULO VI - DA DISCUSSÃO
 
-#### SEÇÃO I — DISPOSIÇÕES GERAIS
+#### SEÇÃO I - DISPOSIÇÕES GERAIS
 
 Art. 204. Discussão é a fase dos trabalhos destinada ao debate em Plenário, e acontecerá com a presença de um terço, no mínimo, dos membros da Assembleia.
 
@@ -3088,7 +3088,7 @@ IV - os requerimentos;
 
 V - os vetos.
 
-#### SEÇÃO II — DO USO DA PALAVRA
+#### SEÇÃO II - DO USO DA PALAVRA
 
 Art. 207. O Deputado, salvo expressa disposição regimental, só poderá falar uma vez e pelo prazo de dez minutos na discussão de qualquer projeto, observadas, ainda, as restrições contidas nos parágrafos deste artigo.
 
@@ -3100,7 +3100,7 @@ Art. 207. O Deputado, salvo expressa disposição regimental, só poderá falar 
 
 § 3º O Deputado inscrito para discutir o projeto, salvo se relator de Comissão, poderá ceder seu tempo, em todo ou em parte. ([Acrescentado pela Resolução nº 86/10, de 08/12/2010 - D.O. 09/12/10, pág. 63)](https://www.spdo.ms.gov.br/diariodoe/Index/Download/DO7843_09_12_2010).
 
-#### SEÇÃO III — DO APARTE
+#### SEÇÃO III - DO APARTE
 
 Art. 208. Aparte é a interrupção breve e oportuna do orador para indicação, ou esclarecimento, relativo à matéria em debate.
 
@@ -3126,7 +3126,7 @@ VIII - nos três últimos minutos de que disponha o orador para conclusão do se
 
 § 3º Os apartes subordinam-se às disposições relativas à discussão, no que lhes for aplicável, e incluem-se no tempo destinado ao orador.
 
-#### SEÇÃO IV — DOS PRAZOS PARA USO DA PALAVRA
+#### SEÇÃO IV - DOS PRAZOS PARA USO DA PALAVRA
 
 Art. 209. São assegurados os seguintes prazos:
 
@@ -3146,7 +3146,7 @@ VII - três minutos, para encaminhamento de votação, para declaração de voto
 
 VIII - dois minutos, para aparte.
 
-#### SEÇÃO V — DO ADIAMENTO DA DISCUSSÃO
+#### SEÇÃO V - DO ADIAMENTO DA DISCUSSÃO
 
 Art. 210. Antes de ser iniciada a discussão de um projeto, será permitido o seu adiamento, por prazo não superior a seis sessões, mediante requerimento assinado por líder, autor ou relator, aprovado pelo Plenário.
 
@@ -3160,7 +3160,7 @@ Art. 212. Não admitirão adiamento de discussão os requerimentos de encerramen
 
 Parágrafo único. O prazo do adiamento ou vista será contado a partir da hora da sua concessão.
 
-#### SEÇÃO VI — DO PEDIDO DE VISTA
+#### SEÇÃO VI - DO PEDIDO DE VISTA
 
 Art. 213. Durante a discussão da matéria, é facultado ao Deputado requerer verbalmente à Mesa, vista de qualquer proposição, pelo prazo máximo de vinte e quatro horas.
 
@@ -3172,9 +3172,9 @@ Art. 214. Havendo pedidos simultâneos de vista, a votação far-se-á em ordem 
 
 Parágrafo único. Em nenhuma hipótese se concederá, mais de uma vez, por Deputado, pedido de vista de que trata o caput do art. 213. ([Acrescentado pela Resolução nº 14/16, de 07/06/2016 - D.O.ALEMS 08/06/16, pág. 02)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=XPAEloLWBF0=).
 
-### CAPITULO VII — DA VOTAÇÃO
+### CAPITULO VII - DA VOTAÇÃO
 
-#### SEÇÃO I — DISPOSIÇÕES GERAIS
+#### SEÇÃO I - DISPOSIÇÕES GERAIS
 
 Art. 215. A votação completa o turno regimental da discussão.
 
@@ -3204,7 +3204,7 @@ Art. 217. Salvo disposição em contrário, as deliberações da Assembleia ser�
 
 § 3º É lícito ao Deputado enviar à Mesa, até o final da Sessão, declaração escrita de voto, lendo-a sem comentar.
 
-#### SEÇÃO II — DO QUORUM ESPECIAL E DA OBSTRUÇÃO
+#### SEÇÃO II - DO QUORUM ESPECIAL E DA OBSTRUÇÃO
 
 Art. 218. Além de outros casos expressos neste Regimento, as deliberações do Poder Legislativo subordinam-se a quórum especial nos seguintes casos:
 
@@ -3288,7 +3288,7 @@ Art. 220. É reconhecido à representação partidária, ou ao Deputado, o direi
 
 Parágrafo único. O Líder da Bancada, ou o Deputado, poderá fazer declaração prévia do seu propósito obstrucionista, anunciando, para o devido registro nos anais, e seus efeitos consequentes, que se retira acompanhado dos deputados cujos nomes decline.
 
-#### SEÇÃO III — DAS MODALIDADES E PROCESSOS DE VOTAÇÃO
+#### SEÇÃO III - DAS MODALIDADES E PROCESSOS DE VOTAÇÃO
 
 Art. 221. Três são os processos de votação:
 
@@ -3352,7 +3352,7 @@ II - concessão de título honorífico; ([Revogado pela Resolução nº 64/13, d
 
 III - quando expressamente previsto neste Regimento. ([Revogado pela Resolução nº 64/13, de 08/10/2013 - D.O. ALEMS 09/10/13, pág.04)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=EB7afxRzYpY=).
 
-#### SEÇÃO IV — DO PROCESSAMENTO DA VOTAÇÃO
+#### SEÇÃO IV - DO PROCESSAMENTO DA VOTAÇÃO
 
 Art. 226. A proposição ou seu substitutivo será votada sempre em globo, ressalvada a matéria destacada, ou deliberação diversa do Plenário.
 
@@ -3394,7 +3394,7 @@ IX - as emendas com subemendas serão votadas uma a uma, tendo preferência na v
 
 X - quando, ao mesmo dispositivo, forem apresentadas várias emendas da mesma natureza, terão preferência as de comissão sobre as demais e, havendo emendas de mais de uma comissão, a precedência será regulada pela ordem de sua apresentação.
 
-#### SEÇÃO V — DO ENCAMINHAMENTO
+#### SEÇÃO V - DO ENCAMINHAMENTO
 
 Art. 228. Encaminhamento é o pronunciamento pelo qual a Bancada Partidária, ou grupo, ou Bloco Parlamentar fixa, ante o Plenário, para orientação dos respectivos componentes, o sentido do seu voto, no instante de deliberar a respeito de determinada matéria.
 
@@ -3422,7 +3422,7 @@ Art. 229. A palavra para o encaminhamento é pedida ao ser anunciada a votação
 
 § 2º Se a votação for por partes, poderá ser feito encaminhamento em cada votação.
 
-#### SEÇÃO VI — DO ADIAMENTO
+#### SEÇÃO VI - DO ADIAMENTO
 
 Art. 230. Qualquer Deputado poderá requerer, por escrito, durante a discussão de proposição, o adiamento da respectiva votação.
 
@@ -3442,7 +3442,7 @@ Art. 232. Requerido o adiamento de votação para audiência de determinada comi
 
 § 2º Aplica-se ao adiamento da votação o disposto no art. 213.
 
-### CAPITULO VIII — DA REDAÇÃO FINAL
+### CAPITULO VIII - DA REDAÇÃO FINAL
 
 Art. 233. Ultimada a fase de votação, será a proposição, com as respectivas emendas, enviada à Comissão de Constituição, Justiça e Redação, para elaborar a redação final, na conformidade do vencido e, se necessário, apresentar emendas.
 
@@ -3474,9 +3474,9 @@ Art. 236. Sobre a redação final só poderão falar, além do Relator, um Deput
 
 Parágrafo único. Salvo na hipótese da última figura deste artigo, nenhum Deputado, discutindo redação final, falará mais de uma vez e por tempo superior a cinco minutos.
 
-### CAPITULO IX — DOS REGIMES ESPECIAIS DE VOTAÇÃO
+### CAPITULO IX - DOS REGIMES ESPECIAIS DE VOTAÇÃO
 
-#### SEÇÃO I — DA URGÊNCIA
+#### SEÇÃO I - DA URGÊNCIA
 
 Art. 237. Urgência é a dispensa de exigências regimentais, salvo as referidas no parágrafo único, para que determinada proposição, cujos efeitos dependam de execução imediata, seja de logo considerada, até a sua decisão final.
 
@@ -3558,7 +3558,7 @@ Art. 244. Os prazos e suas prorrogações, aos quais não discipline expressamen
 
 Art. 245. Dar-se-á automaticamente, o encerramento da discussão, relativamente a parte da matéria urgente posta em debate, após sobre a mesma falarem dois oradores a favor e dois contra.
 
-#### SEÇÃO II — DA PRIORIDADE
+#### SEÇÃO II - DA PRIORIDADE
 
 Art. 246. Prioridade é a primazia que se dá a uma proposição, com abrandamento de exigências regimentais, a fim de que tenha rápida tramitação.
 
@@ -3608,7 +3608,7 @@ Art. 251. Qualquer matéria poderá ser considerada em regime de prioridade, des
 
 Parágrafo único. O requerimento, no caso deste artigo, será escrito, fundamentado oralmente, se o preferir o autor, e não sofrerá discussão.
 
-#### SEÇÃO III — DA PREFERÊNCIA
+#### SEÇÃO III - DA PREFERÊNCIA
 
 Art. 252. Preferência é a primazia no trato de uma proposição, sobre outra ou outras.
 
@@ -3668,7 +3668,7 @@ Art. 259. Quando os pedidos de preferência, relativamente a matéria da Ordem d
 
 § 2º Recusada a modificação na Ordem do Dia, considerar-se-ão prejudicados os pedidos apresentados além do quinto.
 
-#### SEÇÃO IV — DO VETO
+#### SEÇÃO IV - DO VETO
 
 Art. 260. Veto é o ato formal através do qual o Chefe do Poder Executivo recusa a aprovação a uma proposta legislativa, encaminhada pela Assembleia à sua sanção.
 
@@ -3688,9 +3688,9 @@ Art. 260. Veto é o ato formal através do qual o Chefe do Poder Executivo recus
 
 § 8º A Assembleia terá o prazo de trinta dias, a contar do seu recebimento, para se pronunciar sobre o veto e, decorrido esse prazo sem deliberação, será o mesmo colocado na Ordem do Dia da Sessão imediata, sobrestadas as demais proposições até sua votação final.
 
-## TITULO VIII — DAS ATIVIDADES RELACIONADAS COM O GOVERNADOR
+## TITULO VIII - DAS ATIVIDADES RELACIONADAS COM O GOVERNADOR
 
-### CAPITULO I — DA POSSE DO GOVERNADOR E DO VICE-GOVERNADOR
+### CAPITULO I - DA POSSE DO GOVERNADOR E DO VICE-GOVERNADOR
 
 Art. 261. A posse do Governador e do Vice-Governador realizar-se-á a primeiro de janeiro do ano seguinte ao da eleição, em Sessão especial, que terá cunho solene e festivo.
 
@@ -3708,7 +3708,7 @@ Parágrafo único. Retomando, os membros da Mesa e a assistência, os seus assen
 
 Art. 266. O Presidente a seguir, pronunciará, sobre o ato, alocução em nome do Poder Legislativo, após o que, transferirá, para o mesmo fim, a palavra ao Governador empossado. Encerrada a oração governamental, a mesma Comissão conduzirá o Governador e o Vice-Governador até os umbrais da entrada do Poder Legislativo, encerrando-se, em seguida, a Sessão.
 
-### CAPITULO II — DA RENÚNCIA DO GOVERNADOR
+### CAPITULO II - DA RENÚNCIA DO GOVERNADOR
 
 Art. 267. O Governador que assumir o cargo, bem assim o Vice-Governador, somente poderão renunciar mediante declaração escrita dirigida à Assembleia.
 
@@ -3716,7 +3716,7 @@ Parágrafo único. A renúncia constituirá ato acabado e definitivo desde que l
 
 Art. 268. Quando se tratar de renúncia do Governador, ou do Vice-Governador, em seguida à vacância definitiva do cargo, e na hipótese de recesso do Poder Legislativo, o seu Presidente, sob pena de responsabilidade, convocará imediatamente a Assembleia, em caráter extraordinário, para cumprimento do disposto no parágrafo único do artigo anterior.
 
-### CAPITULO III — DAS LICENÇAS DO GOVERNADOR
+### CAPITULO III - DAS LICENÇAS DO GOVERNADOR
 
 Art. 269. O pedido de licença formulado pelo Governador do Estado, nos termos da art. 63, inciso XIII, da Constituição Estadual, terá o andamento previsto neste Regimento para o pedido análogo, de membro do Poder Legislativo.
 
@@ -3726,7 +3726,7 @@ I - a mensagem do Poder Executivo, solicitando licença, será lida no expedient
 
 II - a Mesa Diretora consubstanciara a mensagem do Poder Executivo em Projeto de Decreto Legislativo e, após o parecer da Comissão de Constituição, Justiça e Redação, terá discussão e votação única. ([Acrescentado pela Resolução nº 83/16, de 07/12/2016 - D.O. ALEMS 08/12/16, pág. 11)](https://diariooficial.al.ms.gov.br/DiarioOficial/DownloadPdf?q=d5WNoXYWrKc=).
 
-### CAPITULO IV — DA TOMADA DE CONTAS DO GOVERNADOR
+### CAPITULO IV - DA TOMADA DE CONTAS DO GOVERNADOR
 
 Art. 270. As contas apresentadas pelo Governador, que abrangerão a totalidade do exercício financeiro do Estado, as atividades do Executivo, do Legislativo, do Judiciário e do Tribunal de Contas, deverão dar entrada na Assembleia até 15 de abril de cada ano.
 
@@ -3750,7 +3750,7 @@ Art. 273. Recebida a comunicação do Tribunal de Contas sobre ilegalidade de de
 
 § 3º A comunicação e a solicitação referidas no caput e no parágrafo anterior tramitarão em regime de urgência e sobre eles a Assembleia pronunciar-se-á dentro de trinta dias.
 
-### CAPITULO V — DA AUTORIZAÇÃO PARA INSTAURAÇÃO DE
+### CAPITULO V - DA AUTORIZAÇÃO PARA INSTAURAÇÃO DE
 
 PROCESSO CRIMINAL CONTRA O GOVERNADOR DO ESTADO
 
@@ -3790,7 +3790,7 @@ Art. 283. Sempre que julgar conveniente, o Presidente da Assembleia, a requerime
 
 Art. 284. No desempenho das atribuições que lhe são conferidas por este capitulo, a Comissão de Constituição, Justiça e Redação observará, no que couber, as normas constantes do título II, capitulo II, deste Regimento.
 
-## TITULO IX — DA DIVISÃO TERRITORIAL E ADMINISTRATIVA DO ESTADO
+## TITULO IX - DA DIVISÃO TERRITORIAL E ADMINISTRATIVA DO ESTADO
 
 Art. 285. A criação de municípios e suas alterações territoriais será feita na época e nos termos previstos na Lei Complementar reguladora do assunto.
 
@@ -3822,7 +3822,7 @@ Art. 289. Aplicam-se no que couber, as disposições deste título ao exame do p
 
 Art. 290. A Comissão Especial, para melhor ordenamento dos seus trabalhos, poderá, dentro dos limites legais, elaborar instruções, que deverão ser publicadas no órgão oficial do Legislativo.
 
-## TÍTULO X — DA APRECIAÇÃO DE NOMES PROPOSTOS PELO GOVERNADOR
+## TÍTULO X - DA APRECIAÇÃO DE NOMES PROPOSTOS PELO GOVERNADOR
 
 Art. 291. À Assembleia Legislativa compete, nos termos do que dispõe a Constituição Estadual, a aprovação de nome proposto pelo Governador do Estado, para Conselheiro do Tribunal de Contas e membro de conselhos e órgãos estaduais.
 
@@ -3838,11 +3838,11 @@ Art. 292. A mensagem do Poder Executivo, submetendo à apreciação da Assemblei
 
 Art. 293. A matéria de que trata o presente título terá discussão única e votação secreta.
 
-## TITULO XI — DO REGIMENTO INTERNO
+## TITULO XI - DO REGIMENTO INTERNO
 
-### CAPITULO I — DA INTERPRETAÇÃO E OBSERVÂNCIA DO REGIMENTO
+### CAPITULO I - DA INTERPRETAÇÃO E OBSERVÂNCIA DO REGIMENTO
 
-#### SEÇÃO I — DAS QUESTÕES DE ORDEM
+#### SEÇÃO I - DAS QUESTÕES DE ORDEM
 
 Art. 294. Considera-se questão de ordem toda dúvida levantada em Plenário quanto à interpretação do Regimento Interno, na sua prática, ou relacionada com a Constituição.
 
@@ -3868,7 +3868,7 @@ Parágrafo único. Ao Deputado é defeso opor-se ou criticar a decisão de quest
 
 Art. 299. As decisões do Presidente da Assembleia sobre questões de ordem serão, juntamente com estas, registradas em livro especial, com índice remissivo anexo.
 
-#### SEÇÃO II — DAS RECLAMAÇÕES OU DA PALAVRA "PELA ORDEM"
+#### SEÇÃO II - DAS RECLAMAÇÕES OU DA PALAVRA "PELA ORDEM"
 
 Art. 300. Em qualquer fase da Sessão poderá o Deputado pedir a palavra "pela ordem", para fazer reclamação quanto a aplicação do Regimento no trato de assunto sob apreciação do Plenário, nesse momento.
 
@@ -3878,7 +3878,7 @@ Art. 300. Em qualquer fase da Sessão poderá o Deputado pedir a palavra "pela o
 
 § 3º Aplicam-se às reclamações todas as normas referentes às questões de ordem.
 
-### CAPITULO II — DA REFORMA DO REGIMENTO
+### CAPITULO II - DA REFORMA DO REGIMENTO
 
 Art. 301. O Regimento Interno somente poderá ser reformado, total ou parcialmente, na conformidade do disposto neste capítulo.
 
@@ -3914,9 +3914,9 @@ Art. 309. Para promulgação da Resolução de reforma do Regimento, a Mesa ter�
 
 Parágrafo único. No final de cada Sessão Legislativa ordinária a Mesa fará a consolidação de todas as modificações produzidas no Regimento, do qual extrairá edição, durante o recesso parlamentar.
 
-## TITULO XII — DA CONSTITUIÇÃO
+## TITULO XII - DA CONSTITUIÇÃO
 
-### CAPITULO I — DA REFORMA DA CONSTITUIÇÃO
+### CAPITULO I - DA REFORMA DA CONSTITUIÇÃO
 
 Art. 310. A Constituição poderá ser emendada por proposta:
 
@@ -3992,7 +3992,7 @@ Art. 321. Não se concederá urgência para tramitação de matéria constitucio
 
 Art. 322. Em tudo quanto não contrariem as disposições especiais deste capítulo, regularão a tramitação de matéria constitucional as disposições do Regimento referente às proposições legislativas ordinárias.
 
-### CAPITULO II — DA PROPOSTA DE EMENDA À CONSTITUIÇÃO FEDERAL
+### CAPITULO II - DA PROPOSTA DE EMENDA À CONSTITUIÇÃO FEDERAL
 
 Art. 323. A Assembleia Legislativa poderá subscrever proposta de Emenda à Constituição Federal nos termos do que dispõe o art. 60, III da Carta Magna Federal.
 
@@ -4006,7 +4006,7 @@ II - pela Mesa Diretora, quando em atendimento a solicitação de outra Assemble
 
 Art. 324. Aprovada e publicada a Resolução, cópia será encaminhada aos Presidentes da Câmara dos Deputados, do Senado Federal e das Assembleias Legislativas com expediente, onde será esclarecido tratar-se de proposta originária deste Poder ou de apoiamento a proposta formulada pelo Poder Legislativo de outra unidade da Federação.
 
-## TITULO XIII — DA PALAVRA "PELO PROTOCOLO"
+## TITULO XIII - DA PALAVRA "PELO PROTOCOLO"
 
 Art. 325. A palavra "pelo Protocolo" será concedida, por dez minutos, pelo Presidente da Assembleia, independentemente de inscrição, ao Deputado que a solicite:
 
@@ -4028,9 +4028,9 @@ VIII - para parabenizar Deputado por acontecimento de alta significação polít
 
 Parágrafo único. O Deputado que falar "pelo protocolo" nos casos dos incisos VI e VII, ou em Sessão que proporcione acesso, ao Plenário, de pessoas estranhas à Assembleia, abster-se-á de emitir conceitos depreciativos relativamente a figuras eminentes da política nacional, estadual ou municipal, ou que tenham relação de ordem político-partidária com o visitante.
 
-## TITULO XIV — DA ELABORAÇÃO LEGISLATIVA ESPECIAL
+## TITULO XIV - DA ELABORAÇÃO LEGISLATIVA ESPECIAL
 
-### CAPITULO I — DOS CÓDIGOS, LEIS ORGÂNICAS, ESTATUTOS E CONSOLIDAÇÕES
+### CAPITULO I - DOS CÓDIGOS, LEIS ORGÂNICAS, ESTATUTOS E CONSOLIDAÇÕES
 
 Art. 326. Os projetos de código, lei orgânicas, estatutos e consolidações, depois de considerados objetos de deliberação serão publicados no “Diário do Legislativo”.
 
@@ -4056,7 +4056,7 @@ Art. 330. Aprovado em terceira votação, o projeto irá à Comissão Especial, 
 
 § 2º Aprovada a redação final, a Mesa deverá, dentro do prazo de dez dias, expedir o respectivo autógrafo ao Poder Executivo.
 
-### CAPITULO II — DO ORÇAMENTO
+### CAPITULO II - DO ORÇAMENTO
 
 Art. 331. Cabe ao Poder Executivo encaminhar à Assembleia Legislativa os projetos de Lei relativos às matérias referidas no art. 160 da Constituição Estadual, cuja tramitação obedecerá o disposto neste Capítulo.
 
@@ -4132,7 +4132,7 @@ Art. 341. Em nenhuma hipótese se concederá, mais de uma vez em cada discussão
 
 Parágrafo único. A discussão e votação da matéria disciplinada neste capítulo será feita em regime de prioridade.
 
-## TITULO XV — DA INDICAÇÃO DE NOMES PELA
+## TITULO XV - DA INDICAÇÃO DE NOMES PELA
 
 ASSEMBLEIA LEGISLATIVA PARA O TRIBUNAL DE CONTAS
 
@@ -4154,7 +4154,7 @@ Art. 346. Aprovado o nome para Conselheiro do Tribunal de Contas, a Mesa Diretor
 
 Art. 346. Aprovado o nome para Conselheiro do Tribunal de Contas, a Mesa Diretora encaminhará o projeto de Decreto Legislativo respectivo para publicação, ao mesmo tempo que dela dará conhecimento ao Governador do Estado, para os fins do disposto no art. 89, III da Constituição Estadual. ([Alteração feita de acordo com a Resolução nº 86/10, de 07/12/2010 - D.O. 09/12/10, pág. 63)](https://www.spdo.ms.gov.br/diariodoe/Index/Download/DO7843_09_12_2010).
 
-## TITULO XVI — DA CONVOCAÇÃO DE SECRETÁRIOS DE ESTADO E DE DIRIGENTES DE ENTIDADES DA ADMINISTRAÇÃO DIRETA
+## TITULO XVI - DA CONVOCAÇÃO DE SECRETÁRIOS DE ESTADO E DE DIRIGENTES DE ENTIDADES DA ADMINISTRAÇÃO DIRETA
 
 Art. 347. Os secretários de Estado e os dirigentes de entidades da Administração direta poderão ser convocados pela Assembleia a fim de, pessoalmente, prestar informações sobre assunto determinado, em atendimento a requerimento escrito de qualquer Deputado, indicando com precisão o objeto da convocação, e aprovado em Plenário.
 
@@ -4194,7 +4194,7 @@ Art. 352. O Deputado, tenha ou não oferecido quesitos prévios, no curso das in
 
 Art. 353. Na Sessão que deva comparecer o Secretário de Estado ou dirigente de entidade da administração direta, não haverá Grande Expediente, nem Ordem do Dia, nem Explicação Pessoal, salvo se o recebimento da Autoridade for estabelecido para hora adiantada da Sessão, ou se for protelado, casos em que os trabalhos poderão ter andamento ordinário até o instante em que se verificar o comparecimento.
 
-## TITULO XVII — DA CONVOCAÇÃO EXTRAORDINÁRIA
+## TITULO XVII - DA CONVOCAÇÃO EXTRAORDINÁRIA
 
 Art. 354. A Assembleia poderá ser convocada extraordinariamente:
 
@@ -4230,7 +4230,7 @@ c) o período posterior ao Pequeno Expediente será destinado inteiro à Ordem d
 
 § 2º Mediante aprovação da maioria relativa, com o expresso e unânime acordo entre as lideranças, admitir-se-á, excepcionalmente, a apreciação de matéria advinda de outro Poder.
 
-## TITULO XVIII — DO SERVIÇO DE SEGURANÇA DA ASSEMBLEIA
+## TITULO XVIII - DO SERVIÇO DE SEGURANÇA DA ASSEMBLEIA
 
 Art. 358. O policiamento do edifício da Assembleia e de suas dependências externas compete, privativamente, à Mesa, sob a suprema direção do Presidente, sem intervenção de qualquer outro Poder.
 
@@ -4256,7 +4256,7 @@ Art. 363. Quando no edifício da Assembleia se cometer algum delito, realizar-se
 
 Parágrafo único. Não ocorrendo a prisão em flagrante, o fato será comunicado à autoridade competente para a instauração do inquérito policial.
 
-## TITULO XIX — DA ADMINISTRAÇÃO
+## TITULO XIX - DA ADMINISTRAÇÃO
 
 Art. 364. Os serviços administrativos da Assembleia far-se-ão através de sua Secretaria e reger-se- ão pelo respectivo Regulamento.
 
@@ -4272,7 +4272,7 @@ Art. 365. O número e categoria dos funcionários do Poder Legislativo, bem assi
 
 § 4º O pedido de informação a que se reporta o parágrafo anterior será protocolado como processo interno.
 
-## TÍTULO XX — DA CORREGEDORIA PARLAMENTAR
+## TÍTULO XX - DA CORREGEDORIA PARLAMENTAR
 
 Art. 366. A Corregedoria da Assembleia Legislativa é constituída por um Corregedor titular e um substituto, indicados pelo Presidente do Poder, e cujos mandatos, que poderão ser renovados, coincidirão com aquele da Mesa Diretora que os indicou.
 
@@ -4282,7 +4282,7 @@ I - promover a manutenção do decoro, da ordem e da disciplina no âmbito da As
 
 II - fazer sindicância sobre denúncia de ilícitos no âmbito da Assembleia Legislativa, envolvendo parlamentares.
 
-## TITULO XXI — DA CONSULTORIA TÉCNICA JURÍDICA DO PODER LEGISLATIVO
+## TITULO XXI - DA CONSULTORIA TÉCNICA JURÍDICA DO PODER LEGISLATIVO
 
 Art. 368. O Poder Legislativo é assistido na sua ação legiferante e nas suas relações de ordem judicial com as pessoas naturais e jurídicas de direito público ou privado, por sua Consultoria Técnica Jurídica.
 
@@ -4320,9 +4320,9 @@ e) manter, em livro especial, o registro das questões de ordem em cujas decisõ
 
 § 3º Ao Presidente da Assembleia é facultado optar, para sua assistência pessoal, nos trabalhos das sessões, entre o Consultor Técnico Jurídico e qualquer dos consultores lotados na Consultoria.
 
-## TITULO XXII — DA PARTICIPAÇÃO DA SOCIEDADE CIVIL
+## TITULO XXII - DA PARTICIPAÇÃO DA SOCIEDADE CIVIL
 
-### CAPITULO I — DA INICIATIVA POPULAR DE LEI
+### CAPITULO I - DA INICIATIVA POPULAR DE LEI
 
 Art. 370. A iniciativa popular pode ser exercida pela apresentação à Assembleia Legislativa de projeto de Lei subscrito por, no mínimo, um por cento do eleitorado do Estado, distribuído em, pelo menos, vinte por cento dos municípios, com não menos de três décimos dos eleitores de cada um deles, obedecidas as seguintes condições:
 
@@ -4344,7 +4344,7 @@ VIII - não se rejeitará, liminarmente, projeto de Lei de iniciativa popular po
 
 IX - a Mesa designará Deputado para exercer, em relação ao projeto de Lei de iniciativa popular, os poderes ou atribuições conferidos por este Regimento ao autor de proposição, devendo a escolha recair sobre quem tenha sido, com a sua anuência, previamente indicado com essa finalidade pelo primeiro signatário do projeto.
 
-### CAPITULO II — DAS PETIÇÕES E REPRESENTAÇÕES E OUTRAS FORMAS DE PARTICIPAÇÃO
+### CAPITULO II - DAS PETIÇÕES E REPRESENTAÇÕES E OUTRAS FORMAS DE PARTICIPAÇÃO
 
 Art. 371. As petições, reclamações ou representações de qualquer pessoa física ou jurídica contra ato ou omissão das autoridades e entidades públicas, ou imputados a membros da Casa, serão recebidas e examinadas pelas comissões, ou pela Mesa, respectivamente, desde que:
 
@@ -4358,7 +4358,7 @@ Art. 372. A participação da sociedade poderá, ainda, será exercida através 
 
 Parágrafo único. A contribuição da sociedade será examinada por comissão cuja área de atuação tenha pertinência com a matéria contida no documento recebido.
 
-## TITULO XXIII — DO CREDENCIAMENTO DA IMPRENSA
+## TITULO XXIII - DO CREDENCIAMENTO DA IMPRENSA
 
 Art. 373. Os órgãos de imprensa, do rádio e da televisão poderão credenciar seus profissionais, perante a Mesa, para exercício das atividades jornalísticas, de informação e divulgação, pertinentes à Casa e a seus membros, não gerando ônus ou vínculo empregatício com a Assembleia Legislativa.
 
@@ -4368,7 +4368,7 @@ Art. 373. Os órgãos de imprensa, do rádio e da televisão poderão credenciar
 
 § 3º O Comitê de Imprensa reger-se-á por Regulamento aprovado pela Mesa.
 
-## TÍTULO XXIV — DISPOSIÇÕES FINAIS
+## TÍTULO XXIV - DISPOSIÇÕES FINAIS
 
 Art. 374. Quando não estiver em funcionamento o "Diário do Legislativo", os Atos do Poder Legislativo serão publicados no Diário Oficial do Estado.
 
